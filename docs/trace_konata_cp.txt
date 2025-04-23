@@ -1,0 +1,9850 @@
+Kanata	0004
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+I	0	0	0
+L	0	0	[08221]80000000 (00000517): auipc   a0, 0x0
+S	0	0	DEC
+I	1	0	0
+L	1	0	[08221]80000004 (02850513): addi    a0, a0, 40
+S	1	0	DEC
+I	2	0	0
+L	2	0	[08221]80000008 (30551073): csrw    mtvec, a0
+S	2	0	DEC
+I	3	0	0
+L	3	0	[08221]8000000c (10551073): csrw    stvec, a0
+S	3	0	DEC
+C	1
+S	0	0	RN
+S	1	0	RN
+S	2	0	RN
+S	3	0	RN
+I	4	1	0
+L	4	0	[08223]80000010 (80020137): lui     sp, 0x80020
+S	4	0	DEC
+I	5	1	0
+L	5	0	[08223]80000014 (000024e5): c.jal   pc + 744
+S	5	0	DEC
+C	1
+S	0	0	IS
+S	1	0	IS
+S	2	0	IS
+S	3	0	IS
+C	1
+S	4	0	RN
+S	5	0	RN
+C	1
+S	0	0	LD
+S	4	0	IS
+S	5	0	IS
+C	1
+S	1	0	LD
+S	0	0	EX
+L	0	1	opA=00000000 
+L	0	1	opB=00000000 
+L	0	1	imm=00000000 
+C	1
+S	5	0	LD
+S	4	0	LD
+S	1	0	EX
+L	1	1	opA=80000000 
+L	1	1	opB=00000028 
+L	1	1	imm=00000028 
+S	0	0	WFC
+L	0	1	res=00000000
+C	1
+S	5	0	EX
+L	5	1	opA=00000000 
+L	5	1	opB=000002e8 
+L	5	1	imm=000002e8 
+S	4	0	EX
+L	4	1	opA=00000000 
+L	4	1	opB=80020000 
+L	4	1	imm=80020000 
+S	1	0	WFC
+L	1	1	res=00000000
+C	1
+S	5	0	WFC
+L	5	1	res=00000000
+S	4	0	WFC
+L	4	1	res=00000000
+S	0	0	COM
+R	0	0	0
+C	1
+S	1	0	COM
+R	1	1	0
+C	1
+S	2	0	LD
+C	1
+S	2	0	EX
+L	2	1	opA=80000028 
+L	2	1	opB=00000000 
+L	2	1	imm=00000305 
+C	1
+S	2	0	WFC
+L	2	1	res=00000000
+C	1
+C	1
+S	2	0	COM
+R	2	2	0
+I	6	2	0
+L	6	0	[08249]800002fc (00001141): c.addi  sp, -16
+S	6	0	DEC
+I	7	2	0
+L	7	0	[08249]800002fe (0000c006): c.swsp  ra, 0(sp)
+S	7	0	DEC
+C	1
+S	3	0	LD
+S	6	0	RN
+S	7	0	RN
+C	1
+S	3	0	EX
+L	3	1	opA=80000028 
+L	3	1	opB=00000000 
+L	3	1	imm=00000105 
+S	6	0	IS
+S	7	0	IS
+C	1
+S	3	0	WFC
+L	3	1	res=00000000
+C	1
+S	6	0	LD
+C	1
+S	7	0	LD
+S	6	0	EX
+L	6	1	opA=80020000 
+L	6	1	opB=fffffff0 
+L	6	1	imm=fffffff0 
+S	3	0	COM
+R	3	3	0
+S	4	0	COM
+R	4	4	0
+S	5	0	COM
+R	5	5	0
+C	1
+S	7	0	EX
+L	7	1	opA=8001fff0 
+L	7	1	opB=00000000 
+L	7	1	imm=00000000 
+S	6	0	WFC
+L	6	1	res=00000000
+C	1
+S	7	0	WFC
+L	7	1	res=00000000
+C	1
+S	6	0	COM
+R	6	6	0
+C	1
+S	7	0	COM
+R	7	7	0
+C	1
+I	8	3	0
+L	8	0	[08269]80000300 (00004429): c.li    s0, 10
+S	8	0	DEC
+I	9	3	0
+L	9	0	[08269]80000302 (00000517): auipc   a0, 0x0
+S	9	0	DEC
+I	10	3	0
+L	10	0	[08269]80000306 (05650513): addi    a0, a0, 86
+S	10	0	DEC
+I	11	3	0
+L	11	0	[08269]8000030a (00000597): auipc   a1, 0x0
+S	11	0	DEC
+C	1
+S	8	0	RN
+S	9	0	RN
+S	10	0	RN
+S	11	0	RN
+I	12	4	0
+L	12	0	[08271]8000030e (05a58593): addi    a1, a1, 90
+S	12	0	DEC
+I	13	4	0
+L	13	0	[08271]80000312 (000035bd): c.jal   pc - 402
+S	13	0	DEC
+C	1
+S	8	0	WFC
+S	9	0	IS
+S	10	0	IS
+S	11	0	IS
+S	12	0	RN
+S	13	0	RN
+C	1
+S	12	0	IS
+S	13	0	IS
+C	1
+S	11	0	LD
+S	9	0	LD
+S	8	0	COM
+R	8	8	0
+C	1
+S	13	0	LD
+S	12	0	LD
+S	10	0	LD
+S	11	0	EX
+L	11	1	opA=00000000 
+L	11	1	opB=00000000 
+L	11	1	imm=00000000 
+S	9	0	EX
+L	9	1	opA=00000000 
+L	9	1	opB=00000000 
+L	9	1	imm=00000000 
+C	1
+S	13	0	EX
+L	13	1	opA=00000000 
+L	13	1	opB=fffffe6e 
+L	13	1	imm=fffffe6e 
+S	12	0	EX
+L	12	1	opA=8000030a 
+L	12	1	opB=0000005a 
+L	12	1	imm=0000005a 
+S	10	0	EX
+L	10	1	opA=80000302 
+L	10	1	opB=00000056 
+L	10	1	imm=00000056 
+S	11	0	WFC
+L	11	1	res=00000000
+S	9	0	WFC
+L	9	1	res=00000000
+C	1
+S	13	0	WFC
+L	13	1	res=00000000
+S	12	0	WFC
+L	12	1	res=00000000
+S	10	0	WFC
+L	10	1	res=00000000
+C	1
+S	9	0	COM
+R	9	9	0
+C	1
+S	10	0	COM
+R	10	10	0
+S	11	0	COM
+R	11	11	0
+S	12	0	COM
+R	12	12	0
+S	13	0	COM
+R	13	13	0
+C	1
+C	1
+C	1
+C	1
+C	1
+I	14	5	0
+L	14	0	[08297]80000180 (0000577d): c.li    a4, -1
+S	14	0	DEC
+I	15	5	0
+L	15	0	[08297]80000182 (00000001): c.nop
+S	15	0	DEC
+I	16	5	0
+L	16	0	[08297]80000184 (00000013): nop
+S	16	0	DEC
+I	17	5	0
+L	17	0	[08297]80000188 (00000013): nop
+S	17	0	DEC
+C	1
+S	14	0	RN
+S	15	0	RN
+S	16	0	RN
+S	17	0	RN
+I	18	5	0
+L	18	0	[08299]8000018c (00000013): nop
+S	18	0	DEC
+I	19	6	0
+L	19	0	[08299]80000190 (00004110): c.lw    a2, 0(a0)
+S	19	0	DEC
+I	20	6	0
+L	20	0	[08299]80000192 (00004194): c.lw    a3, 0(a1)
+S	20	0	DEC
+I	21	6	0
+L	21	0	[08299]80000194 (02d61163): bne     a2, a3, pc + 34
+S	21	0	DEC
+C	1
+S	14	0	WFC
+S	15	0	WFC
+S	16	0	WFC
+S	17	0	WFC
+S	18	0	RN
+S	19	0	RN
+S	20	0	RN
+S	21	0	RN
+C	1
+S	18	0	WFC
+S	19	0	IS
+S	20	0	IS
+S	21	0	IS
+C	1
+S	14	0	COM
+R	14	14	0
+S	15	0	COM
+R	15	15	0
+S	16	0	COM
+R	16	16	0
+S	17	0	COM
+R	17	17	0
+I	22	7	0
+L	22	0	[08305]80000198 (28765613): orc.b   a2, a2
+S	22	0	DEC
+I	23	7	0
+L	23	0	[08305]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	23	0	DEC
+C	1
+S	19	0	LD
+S	20	0	LD
+S	18	0	COM
+R	18	18	0
+S	22	0	RN
+S	23	0	RN
+C	1
+S	19	0	EX
+L	19	1	opA=80000358 
+L	19	1	opB=00000000 
+L	19	1	imm=00000000 
+S	20	0	EX
+L	20	1	opA=80000364 
+L	20	1	opB=00000000 
+L	20	1	imm=00000000 
+S	22	0	IS
+S	23	0	IS
+C	1
+I	24	8	0
+L	24	0	[08311]800001a0 (00004150): c.lw    a2, 4(a0)
+S	24	0	DEC
+I	25	8	0
+L	25	0	[08311]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	25	0	DEC
+I	26	8	0
+L	26	0	[08311]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	26	0	DEC
+C	1
+S	24	0	RN
+S	25	0	RN
+S	26	0	RN
+C	1
+S	24	0	IS
+S	25	0	IS
+S	26	0	IS
+C	1
+I	27	9	0
+L	27	0	[08317]800001a8 (28765613): orc.b   a2, a2
+S	27	0	DEC
+I	28	9	0
+L	28	0	[08317]800001ac (00e61563): bne     a2, a4, pc + 10
+S	28	0	DEC
+C	1
+S	24	0	LD
+S	25	0	LD
+S	27	0	RN
+S	28	0	RN
+C	1
+S	24	0	EX
+L	24	1	opA=80000358 
+L	24	1	opB=00000004 
+L	24	1	imm=00000004 
+S	25	0	EX
+L	25	1	opA=80000364 
+L	25	1	opB=00000004 
+L	25	1	imm=00000004 
+S	27	0	IS
+S	28	0	IS
+C	1
+I	29	10	0
+L	29	0	[08323]800001b0 (00000521): c.addi  a0, 8
+S	29	0	DEC
+I	30	10	0
+L	30	0	[08323]800001b2 (000005a1): c.addi  a1, 8
+S	30	0	DEC
+I	31	10	0
+L	31	0	[08323]800001b4 (0000bff1): c.j     pc - 36
+S	31	0	DEC
+C	1
+S	29	0	RN
+S	30	0	RN
+S	31	0	RN
+C	1
+S	20	0	WFC
+L	20	1	res=00000000
+S	29	0	IS
+S	30	0	IS
+S	31	0	WFC
+C	1
+I	32	11	0
+L	32	0	[08329]80000190 (00004110): c.lw    a2, 0(a0)
+S	32	0	DEC
+I	33	11	0
+L	33	0	[08329]80000192 (00004194): c.lw    a3, 0(a1)
+S	33	0	DEC
+I	34	11	0
+L	34	0	[08329]80000194 (02d61163): bne     a2, a3, pc + 34
+S	34	0	DEC
+I	35	11	0
+L	35	0	[08329]80000198 (28765613): orc.b   a2, a2
+S	35	0	DEC
+C	1
+S	29	0	LD
+S	30	0	LD
+S	32	0	RN
+S	33	0	RN
+S	34	0	RN
+S	35	0	RN
+I	36	11	0
+L	36	0	[08331]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	36	0	DEC
+C	1
+S	29	0	EX
+L	29	1	opA=80000358 
+L	29	1	opB=00000008 
+L	29	1	imm=00000008 
+S	30	0	EX
+L	30	1	opA=80000364 
+L	30	1	opB=00000008 
+L	30	1	imm=00000008 
+S	25	0	WFC
+L	25	1	res=00000000
+S	24	0	WFC
+L	24	1	res=00000000
+S	32	0	IS
+S	33	0	IS
+S	34	0	IS
+S	35	0	IS
+S	36	0	RN
+C	1
+S	26	0	LD
+S	27	0	LD
+S	29	0	WFC
+L	29	1	res=00000000
+S	30	0	WFC
+L	30	1	res=00000000
+S	36	0	IS
+I	37	12	0
+L	37	0	[08335]800001a0 (00004150): c.lw    a2, 4(a0)
+S	37	0	DEC
+I	38	12	0
+L	38	0	[08335]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	38	0	DEC
+I	39	12	0
+L	39	0	[08335]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	39	0	DEC
+I	40	12	0
+L	40	0	[08335]800001a8 (28765613): orc.b   a2, a2
+S	40	0	DEC
+C	1
+S	28	0	LD
+S	32	0	LD
+S	33	0	LD
+S	26	0	EX
+L	26	1	opA=4120676e 
+L	26	1	opB=4220676e 
+L	26	1	imm=00000012 
+S	27	0	EX
+L	27	1	opA=4120676e 
+L	27	1	opB=00000287 
+L	27	1	imm=00000287 
+S	19	0	WFC
+L	19	1	res=00000000
+S	37	0	RN
+S	38	0	RN
+S	39	0	RN
+S	40	0	RN
+I	41	12	0
+L	41	0	[08337]800001ac (00e61563): bne     a2, a4, pc + 10
+S	41	0	DEC
+C	1
+S	21	0	LD
+S	22	0	LD
+S	28	0	EX
+L	28	1	opA=ffffffff 
+L	28	1	opB=ffffffff 
+L	28	1	imm=0000000a 
+S	32	0	EX
+L	32	1	opA=80000360 
+L	32	1	opB=00000000 
+L	32	1	imm=00000000 
+S	33	0	EX
+L	33	1	opA=8000036c 
+L	33	1	opB=00000000 
+L	33	1	imm=00000000 
+S	26	0	WFC
+L	26	1	res=00000000
+S	27	0	WFC
+L	27	1	res=00000000
+R	27	0	1
+R	28	0	1
+R	29	0	1
+R	30	0	1
+R	31	0	1
+R	32	0	1
+R	33	0	1
+R	34	0	1
+R	35	0	1
+R	36	0	1
+R	37	0	1
+R	41	0	1
+R	38	0	1
+R	39	0	1
+R	40	0	1
+C	1
+S	21	0	EX
+L	21	1	opA=69727453 
+L	21	1	opB=69727453 
+L	21	1	imm=00000022 
+S	22	0	EX
+L	22	1	opA=69727453 
+L	22	1	opB=00000287 
+L	22	1	imm=00000287 
+R	41	0	1
+C	1
+S	23	0	LD
+S	21	0	WFC
+L	21	1	res=00000000
+S	22	0	WFC
+L	22	1	res=00000000
+C	1
+S	23	0	EX
+L	23	1	opA=ffffffff 
+L	23	1	opB=ffffffff 
+L	23	1	imm=0000001a 
+S	19	0	COM
+R	19	19	0
+S	20	0	COM
+R	20	20	0
+C	1
+S	23	0	WFC
+L	23	1	res=00000000
+S	21	0	COM
+R	21	21	0
+S	22	0	COM
+R	22	22	0
+C	1
+I	42	9	0
+L	42	0	[08349]800001b6 (00050603): lb      a2, 0(a0)
+S	42	0	DEC
+I	43	9	0
+L	43	0	[08349]800001ba (00058683): lb      a3, 0(a1)
+S	43	0	DEC
+C	1
+S	23	0	COM
+R	23	23	0
+S	24	0	COM
+R	24	24	0
+S	25	0	COM
+R	25	25	0
+S	42	0	RN
+S	43	0	RN
+C	1
+S	26	0	COM
+R	26	26	0
+S	42	0	IS
+S	43	0	IS
+C	1
+C	1
+S	42	0	LD
+S	43	0	LD
+C	1
+S	42	0	EX
+L	42	1	opA=80000358 
+L	42	1	opB=00000000 
+L	42	1	imm=00000000 
+S	43	0	EX
+L	43	1	opA=80000364 
+L	43	1	opB=00000000 
+L	43	1	imm=00000000 
+C	1
+C	1
+S	42	0	WFC
+L	42	1	res=00000000
+S	43	0	WFC
+L	43	1	res=00000000
+C	1
+C	1
+S	42	0	COM
+R	42	27	0
+S	43	0	COM
+R	43	28	0
+C	1
+I	44	10	0
+L	44	0	[08369]800001be (02d61563): bne     a2, a3, pc + 42
+S	44	0	DEC
+C	1
+S	44	0	RN
+C	1
+S	44	0	IS
+C	1
+I	45	11	0
+L	45	0	[08375]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	45	0	DEC
+C	1
+S	44	0	LD
+S	45	0	RN
+C	1
+S	44	0	EX
+L	44	1	opA=00000053 
+L	44	1	opB=00000053 
+L	44	1	imm=0000002a 
+S	45	0	IS
+C	1
+S	44	0	WFC
+L	44	1	res=00000000
+I	46	12	0
+L	46	0	[08381]800001c4 (00150603): lb      a2, 1(a0)
+S	46	0	DEC
+I	47	12	0
+L	47	0	[08381]800001c8 (00158683): lb      a3, 1(a1)
+S	47	0	DEC
+I	48	12	0
+L	48	0	[08381]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	48	0	DEC
+C	1
+S	45	0	LD
+S	46	0	RN
+S	47	0	RN
+S	48	0	RN
+C	1
+S	45	0	EX
+L	45	1	opA=00000053 
+L	45	1	opB=00000000 
+L	45	1	imm=00000026 
+S	44	0	COM
+R	44	29	0
+S	46	0	IS
+S	47	0	IS
+S	48	0	IS
+C	1
+S	45	0	WFC
+L	45	1	res=00000000
+I	49	13	0
+L	49	0	[08387]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	49	0	DEC
+C	1
+S	46	0	LD
+S	47	0	LD
+S	49	0	RN
+C	1
+S	46	0	EX
+L	46	1	opA=80000358 
+L	46	1	opB=00000001 
+L	46	1	imm=00000001 
+S	47	0	EX
+L	47	1	opA=80000364 
+L	47	1	opB=00000001 
+L	47	1	imm=00000001 
+S	45	0	COM
+R	45	30	0
+S	49	0	IS
+C	1
+I	50	14	0
+L	50	0	[08393]800001d2 (00250603): lb      a2, 2(a0)
+S	50	0	DEC
+I	51	14	0
+L	51	0	[08393]800001d6 (00258683): lb      a3, 2(a1)
+S	51	0	DEC
+I	52	14	0
+L	52	0	[08393]800001da (00d61763): bne     a2, a3, pc + 14
+S	52	0	DEC
+C	1
+S	46	0	WFC
+L	46	1	res=00000000
+S	47	0	WFC
+L	47	1	res=00000000
+S	50	0	RN
+S	51	0	RN
+S	52	0	RN
+C	1
+S	49	0	LD
+S	48	0	LD
+S	50	0	IS
+S	51	0	IS
+S	52	0	IS
+C	1
+S	49	0	EX
+L	49	1	opA=00000074 
+L	49	1	opB=00000000 
+L	49	1	imm=00000018 
+S	48	0	EX
+L	48	1	opA=00000074 
+L	48	1	opB=00000074 
+L	48	1	imm=0000001c 
+S	46	0	COM
+R	46	31	0
+S	47	0	COM
+R	47	32	0
+I	53	15	0
+L	53	0	[08399]800001de (0000c609): c.beqz  a2, pc + 10
+S	53	0	DEC
+C	1
+S	50	0	LD
+S	51	0	LD
+S	49	0	WFC
+L	49	1	res=00000000
+S	48	0	WFC
+L	48	1	res=00000000
+S	53	0	RN
+C	1
+S	50	0	EX
+L	50	1	opA=80000358 
+L	50	1	opB=00000002 
+L	50	1	imm=00000002 
+S	51	0	EX
+L	51	1	opA=80000364 
+L	51	1	opB=00000002 
+L	51	1	imm=00000002 
+S	53	0	IS
+C	1
+S	48	0	COM
+R	48	33	0
+I	54	16	0
+L	54	0	[08405]800001e0 (00350603): lb      a2, 3(a0)
+S	54	0	DEC
+I	55	16	0
+L	55	0	[08405]800001e4 (00358683): lb      a3, 3(a1)
+S	55	0	DEC
+I	56	16	0
+L	56	0	[08405]800001e8 (40d60533): sub     a0, a2, a3
+S	56	0	DEC
+I	57	16	0
+L	57	0	[08405]800001ec (00008082): ret
+S	57	0	DEC
+C	1
+S	50	0	WFC
+L	50	1	res=00000000
+S	51	0	WFC
+L	51	1	res=00000000
+S	49	0	COM
+R	49	34	0
+S	54	0	RN
+S	55	0	RN
+S	56	0	RN
+S	57	0	RN
+C	1
+S	52	0	LD
+S	53	0	LD
+S	54	0	IS
+S	55	0	IS
+S	56	0	IS
+S	57	0	IS
+C	1
+S	52	0	EX
+L	52	1	opA=00000072 
+L	52	1	opB=00000072 
+L	52	1	imm=0000000e 
+S	53	0	EX
+L	53	1	opA=00000072 
+L	53	1	opB=00000000 
+L	53	1	imm=0000000a 
+S	50	0	COM
+R	50	35	0
+S	51	0	COM
+R	51	36	0
+I	58	17	0
+L	58	0	[08411]80000314 (0000147d): c.addi  s0, -1
+S	58	0	DEC
+I	59	17	0
+L	59	0	[08411]80000316 (0000f475): c.bnez  s0, pc - 20
+S	59	0	DEC
+C	1
+S	57	0	LD
+S	54	0	LD
+S	55	0	LD
+S	52	0	WFC
+L	52	1	res=00000000
+S	53	0	WFC
+L	53	1	res=00000000
+S	58	0	RN
+S	59	0	RN
+C	1
+S	57	0	EX
+L	57	1	opA=80000314 
+L	57	1	opB=80000314 
+L	57	1	imm=00000000 
+S	54	0	EX
+L	54	1	opA=80000358 
+L	54	1	opB=00000003 
+L	54	1	imm=00000003 
+S	55	0	EX
+L	55	1	opA=80000364 
+L	55	1	opB=00000003 
+L	55	1	imm=00000003 
+S	58	0	IS
+S	59	0	IS
+C	1
+S	57	0	WFC
+L	57	1	res=00000000
+S	52	0	COM
+R	52	37	0
+I	60	18	0
+L	60	0	[08417]80000318 (00004082): c.lwsp  ra, 0(sp)
+S	60	0	DEC
+I	61	18	0
+L	61	0	[08417]8000031a (00000141): c.addi  sp, 16
+S	61	0	DEC
+I	62	18	0
+L	62	0	[08417]8000031c (00008082): ret
+S	62	0	DEC
+C	1
+S	58	0	LD
+S	54	0	WFC
+L	54	1	res=00000000
+S	55	0	WFC
+L	55	1	res=00000000
+S	53	0	COM
+R	53	38	0
+S	60	0	RN
+S	61	0	RN
+S	62	0	RN
+C	1
+S	59	0	LD
+S	56	0	LD
+S	58	0	EX
+L	58	1	opA=0000000a 
+L	58	1	opB=ffffffff 
+L	58	1	imm=ffffffff 
+S	60	0	IS
+S	61	0	IS
+S	62	0	IS
+C	1
+S	59	0	EX
+L	59	1	opA=00000009 
+L	59	1	opB=00000000 
+L	59	1	imm=ffffffec 
+S	56	0	EX
+L	56	1	opA=00000069 
+L	56	1	opB=00000069 
+L	56	1	imm=00000000 
+S	58	0	WFC
+L	58	1	res=00000000
+S	54	0	COM
+R	54	39	0
+S	55	0	COM
+R	55	40	0
+I	63	19	0
+L	63	0	[08423]80000016 (00000001): c.nop
+S	63	0	DEC
+I	64	19	0
+L	64	0	[08423]80000018 (11100537): lui     a0, 0x11100
+S	64	0	DEC
+I	65	19	0
+L	65	0	[08423]8000001c (05500593): li      a1, 85
+S	65	0	DEC
+C	1
+S	61	0	LD
+S	60	0	LD
+S	59	0	WFC
+L	59	1	res=00000000
+S	56	0	WFC
+L	56	1	res=00000000
+R	60	0	1
+R	61	0	1
+R	62	0	1
+R	63	0	1
+R	64	0	1
+R	65	0	1
+C	1
+R	63	0	1
+R	64	0	1
+R	65	0	1
+C	1
+S	56	0	COM
+R	56	41	0
+S	57	0	COM
+R	57	42	0
+S	58	0	COM
+R	58	43	0
+S	59	0	COM
+R	59	44	0
+C	1
+C	1
+C	1
+I	66	18	0
+L	66	0	[08435]80000302 (00000517): auipc   a0, 0x0
+S	66	0	DEC
+I	67	18	0
+L	67	0	[08435]80000306 (05650513): addi    a0, a0, 86
+S	67	0	DEC
+I	68	18	0
+L	68	0	[08435]8000030a (00000597): auipc   a1, 0x0
+S	68	0	DEC
+C	1
+S	66	0	RN
+S	67	0	RN
+S	68	0	RN
+I	69	19	0
+L	69	0	[08437]8000030e (05a58593): addi    a1, a1, 90
+S	69	0	DEC
+I	70	19	0
+L	70	0	[08437]80000312 (000035bd): c.jal   pc - 402
+S	70	0	DEC
+C	1
+S	66	0	IS
+S	67	0	IS
+S	68	0	IS
+S	69	0	RN
+S	70	0	RN
+I	71	20	0
+L	71	0	[08439]80000180 (0000577d): c.li    a4, -1
+S	71	0	DEC
+I	72	20	0
+L	72	0	[08439]80000182 (00000001): c.nop
+S	72	0	DEC
+I	73	20	0
+L	73	0	[08439]80000184 (00000013): nop
+S	73	0	DEC
+I	74	20	0
+L	74	0	[08439]80000188 (00000013): nop
+S	74	0	DEC
+C	1
+S	69	0	IS
+S	70	0	IS
+S	71	0	RN
+S	72	0	RN
+S	73	0	RN
+S	74	0	RN
+I	75	20	0
+L	75	0	[08441]8000018c (00000013): nop
+S	75	0	DEC
+I	76	21	0
+L	76	0	[08441]80000190 (00004110): c.lw    a2, 0(a0)
+S	76	0	DEC
+I	77	21	0
+L	77	0	[08441]80000192 (00004194): c.lw    a3, 0(a1)
+S	77	0	DEC
+I	78	21	0
+L	78	0	[08441]80000194 (02d61163): bne     a2, a3, pc + 34
+S	78	0	DEC
+C	1
+S	68	0	LD
+S	66	0	LD
+S	71	0	WFC
+S	72	0	WFC
+S	73	0	WFC
+S	74	0	WFC
+S	75	0	RN
+S	76	0	RN
+S	77	0	RN
+S	78	0	RN
+I	79	22	0
+L	79	0	[08443]80000198 (28765613): orc.b   a2, a2
+S	79	0	DEC
+I	80	22	0
+L	80	0	[08443]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	80	0	DEC
+C	1
+S	70	0	LD
+S	69	0	LD
+S	67	0	LD
+S	68	0	EX
+L	68	1	opA=00000000 
+L	68	1	opB=00000000 
+L	68	1	imm=00000000 
+S	66	0	EX
+L	66	1	opA=00000000 
+L	66	1	opB=00000000 
+L	66	1	imm=00000000 
+S	75	0	WFC
+S	76	0	IS
+S	77	0	IS
+S	78	0	IS
+S	79	0	RN
+S	80	0	RN
+I	81	23	0
+L	81	0	[08445]800001a0 (00004150): c.lw    a2, 4(a0)
+S	81	0	DEC
+I	82	23	0
+L	82	0	[08445]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	82	0	DEC
+I	83	23	0
+L	83	0	[08445]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	83	0	DEC
+C	1
+S	70	0	EX
+L	70	1	opA=00000000 
+L	70	1	opB=fffffe6e 
+L	70	1	imm=fffffe6e 
+S	69	0	EX
+L	69	1	opA=8000030a 
+L	69	1	opB=0000005a 
+L	69	1	imm=0000005a 
+S	67	0	EX
+L	67	1	opA=80000302 
+L	67	1	opB=00000056 
+L	67	1	imm=00000056 
+S	68	0	WFC
+L	68	1	res=00000000
+S	66	0	WFC
+L	66	1	res=00000000
+S	79	0	IS
+S	80	0	IS
+S	81	0	RN
+S	82	0	RN
+S	83	0	RN
+I	84	24	0
+L	84	0	[08447]800001a8 (28765613): orc.b   a2, a2
+S	84	0	DEC
+I	85	24	0
+L	85	0	[08447]800001ac (00e61563): bne     a2, a4, pc + 10
+S	85	0	DEC
+C	1
+S	70	0	WFC
+L	70	1	res=00000000
+S	69	0	WFC
+L	69	1	res=00000000
+S	67	0	WFC
+L	67	1	res=00000000
+S	81	0	IS
+S	82	0	IS
+S	83	0	IS
+S	84	0	RN
+S	85	0	RN
+I	86	25	0
+L	86	0	[08449]800001b0 (00000521): c.addi  a0, 8
+S	86	0	DEC
+I	87	25	0
+L	87	0	[08449]800001b2 (000005a1): c.addi  a1, 8
+S	87	0	DEC
+I	88	25	0
+L	88	0	[08449]800001b4 (0000bff1): c.j     pc - 36
+S	88	0	DEC
+C	1
+S	76	0	LD
+S	77	0	LD
+S	66	0	COM
+R	66	45	0
+S	84	0	IS
+S	85	0	IS
+S	86	0	RN
+S	87	0	RN
+S	88	0	RN
+I	89	26	0
+L	89	0	[08451]80000190 (00004110): c.lw    a2, 0(a0)
+S	89	0	DEC
+I	90	26	0
+L	90	0	[08451]80000192 (00004194): c.lw    a3, 0(a1)
+S	90	0	DEC
+I	91	26	0
+L	91	0	[08451]80000194 (02d61163): bne     a2, a3, pc + 34
+S	91	0	DEC
+C	1
+S	81	0	LD
+S	82	0	LD
+S	76	0	EX
+L	76	1	opA=80000358 
+L	76	1	opB=00000000 
+L	76	1	imm=00000000 
+S	77	0	EX
+L	77	1	opA=80000364 
+L	77	1	opB=00000000 
+L	77	1	imm=00000000 
+S	67	0	COM
+R	67	46	0
+S	68	0	COM
+R	68	47	0
+S	69	0	COM
+R	69	48	0
+S	70	0	COM
+R	70	49	0
+S	86	0	IS
+S	87	0	IS
+S	88	0	WFC
+S	89	0	RN
+S	90	0	RN
+S	91	0	RN
+I	92	27	0
+L	92	0	[08453]80000198 (28765613): orc.b   a2, a2
+S	92	0	DEC
+I	93	27	0
+L	93	0	[08453]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	93	0	DEC
+C	1
+S	81	0	EX
+L	81	1	opA=80000358 
+L	81	1	opB=00000004 
+L	81	1	imm=00000004 
+S	82	0	EX
+L	82	1	opA=80000364 
+L	82	1	opB=00000004 
+L	82	1	imm=00000004 
+S	71	0	COM
+R	71	50	0
+S	72	0	COM
+R	72	51	0
+S	73	0	COM
+R	73	52	0
+S	74	0	COM
+R	74	53	0
+S	89	0	IS
+S	90	0	IS
+S	91	0	IS
+S	92	0	RN
+S	93	0	RN
+I	94	28	0
+L	94	0	[08455]800001a0 (00004150): c.lw    a2, 4(a0)
+S	94	0	DEC
+I	95	28	0
+L	95	0	[08455]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	95	0	DEC
+I	96	28	0
+L	96	0	[08455]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	96	0	DEC
+C	1
+S	86	0	LD
+S	87	0	LD
+S	77	0	WFC
+L	77	1	res=00000000
+S	76	0	WFC
+L	76	1	res=00000000
+S	75	0	COM
+R	75	54	0
+S	92	0	IS
+S	93	0	IS
+S	94	0	RN
+S	95	0	RN
+S	96	0	RN
+I	97	29	0
+L	97	0	[08457]800001b6 (00050603): lb      a2, 0(a0)
+S	97	0	DEC
+I	98	29	0
+L	98	0	[08457]800001ba (00058683): lb      a3, 0(a1)
+S	98	0	DEC
+C	1
+S	78	0	LD
+S	79	0	LD
+S	89	0	LD
+S	90	0	LD
+S	86	0	EX
+L	86	1	opA=80000358 
+L	86	1	opB=00000008 
+L	86	1	imm=00000008 
+S	87	0	EX
+L	87	1	opA=80000364 
+L	87	1	opB=00000008 
+L	87	1	imm=00000008 
+S	81	0	WFC
+L	81	1	res=00000000
+S	82	0	WFC
+L	82	1	res=00000000
+S	94	0	IS
+S	95	0	IS
+S	96	0	IS
+S	97	0	RN
+S	98	0	RN
+I	99	30	0
+L	99	0	[08459]800001be (02d61563): bne     a2, a3, pc + 42
+S	99	0	DEC
+I	100	30	0
+L	100	0	[08459]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	100	0	DEC
+C	1
+S	80	0	LD
+S	84	0	LD
+S	78	0	EX
+L	78	1	opA=69727453 
+L	78	1	opB=69727453 
+L	78	1	imm=00000022 
+S	79	0	EX
+L	79	1	opA=69727453 
+L	79	1	opB=00000287 
+L	79	1	imm=00000287 
+S	89	0	EX
+L	89	1	opA=80000360 
+L	89	1	opB=00000000 
+L	89	1	imm=00000000 
+S	90	0	EX
+L	90	1	opA=8000036c 
+L	90	1	opB=00000000 
+L	90	1	imm=00000000 
+S	86	0	WFC
+L	86	1	res=00000000
+S	87	0	WFC
+L	87	1	res=00000000
+S	76	0	COM
+R	76	55	0
+S	77	0	COM
+R	77	56	0
+S	97	0	IS
+S	98	0	IS
+S	99	0	RN
+S	100	0	RN
+C	1
+S	83	0	LD
+S	94	0	LD
+S	95	0	LD
+S	80	0	EX
+L	80	1	opA=ffffffff 
+L	80	1	opB=ffffffff 
+L	80	1	imm=0000001a 
+S	84	0	EX
+L	84	1	opA=4120676e 
+L	84	1	opB=00000287 
+L	84	1	imm=00000287 
+S	78	0	WFC
+L	78	1	res=00000000
+S	79	0	WFC
+L	79	1	res=00000000
+S	99	0	IS
+S	100	0	IS
+C	1
+S	85	0	LD
+S	97	0	LD
+S	98	0	LD
+S	83	0	EX
+L	83	1	opA=4120676e 
+L	83	1	opB=4220676e 
+L	83	1	imm=00000012 
+S	94	0	EX
+L	94	1	opA=80000360 
+L	94	1	opB=00000004 
+L	94	1	imm=00000004 
+S	95	0	EX
+L	95	1	opA=8000036c 
+L	95	1	opB=00000004 
+L	95	1	imm=00000004 
+S	80	0	WFC
+L	80	1	res=00000000
+S	84	0	WFC
+L	84	1	res=00000000
+S	90	0	WFC
+L	90	1	res=00000000
+S	89	0	WFC
+L	89	1	res=00000000
+I	101	31	0
+L	101	0	[08465]800001c4 (00150603): lb      a2, 1(a0)
+S	101	0	DEC
+I	102	31	0
+L	102	0	[08465]800001c8 (00158683): lb      a3, 1(a1)
+S	102	0	DEC
+I	103	31	0
+L	103	0	[08465]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	103	0	DEC
+C	1
+S	91	0	LD
+S	92	0	LD
+S	85	0	EX
+L	85	1	opA=ffffffff 
+L	85	1	opB=ffffffff 
+L	85	1	imm=0000000a 
+S	97	0	EX
+L	97	1	opA=80000360 
+L	97	1	opB=00000000 
+L	97	1	imm=00000000 
+S	98	0	EX
+L	98	1	opA=8000036c 
+L	98	1	opB=00000000 
+L	98	1	imm=00000000 
+S	83	0	WFC
+L	83	1	res=00000000
+S	78	0	COM
+R	78	57	0
+S	79	0	COM
+R	79	58	0
+R	84	0	1
+R	85	0	1
+R	86	0	1
+R	87	0	1
+R	88	0	1
+R	89	0	1
+R	90	0	1
+R	91	0	1
+R	92	0	1
+R	93	0	1
+R	94	0	1
+R	95	0	1
+R	96	0	1
+R	97	0	1
+R	98	0	1
+R	99	0	1
+R	100	0	1
+R	101	0	1
+R	102	0	1
+R	103	0	1
+C	1
+R	101	0	1
+R	102	0	1
+R	103	0	1
+C	1
+S	80	0	COM
+R	80	59	0
+S	81	0	COM
+R	81	60	0
+S	82	0	COM
+R	82	61	0
+C	1
+S	83	0	COM
+R	83	62	0
+C	1
+C	1
+I	104	24	0
+L	104	0	[08477]800001b6 (00050603): lb      a2, 0(a0)
+S	104	0	DEC
+I	105	24	0
+L	105	0	[08477]800001ba (00058683): lb      a3, 0(a1)
+S	105	0	DEC
+C	1
+S	104	0	RN
+S	105	0	RN
+I	106	25	0
+L	106	0	[08479]800001be (02d61563): bne     a2, a3, pc + 42
+S	106	0	DEC
+C	1
+S	104	0	IS
+S	105	0	IS
+S	106	0	RN
+I	107	26	0
+L	107	0	[08481]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	107	0	DEC
+I	108	26	0
+L	108	0	[08481]800001c4 (00150603): lb      a2, 1(a0)
+S	108	0	DEC
+I	109	26	0
+L	109	0	[08481]800001c8 (00158683): lb      a3, 1(a1)
+S	109	0	DEC
+I	110	26	0
+L	110	0	[08481]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	110	0	DEC
+C	1
+S	106	0	IS
+S	107	0	RN
+S	108	0	RN
+S	109	0	RN
+S	110	0	RN
+C	1
+S	104	0	LD
+S	105	0	LD
+S	107	0	IS
+S	108	0	IS
+S	109	0	IS
+S	110	0	IS
+C	1
+S	104	0	EX
+L	104	1	opA=80000358 
+L	104	1	opB=00000000 
+L	104	1	imm=00000000 
+S	105	0	EX
+L	105	1	opA=80000364 
+L	105	1	opB=00000000 
+L	105	1	imm=00000000 
+I	111	27	0
+L	111	0	[08487]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	111	0	DEC
+C	1
+S	108	0	LD
+S	109	0	LD
+S	111	0	RN
+I	112	28	0
+L	112	0	[08489]800001d2 (00250603): lb      a2, 2(a0)
+S	112	0	DEC
+I	113	28	0
+L	113	0	[08489]800001d6 (00258683): lb      a3, 2(a1)
+S	113	0	DEC
+I	114	28	0
+L	114	0	[08489]800001da (00d61763): bne     a2, a3, pc + 14
+S	114	0	DEC
+I	115	28	0
+L	115	0	[08489]800001de (0000c609): c.beqz  a2, pc + 10
+S	115	0	DEC
+C	1
+S	108	0	EX
+L	108	1	opA=80000358 
+L	108	1	opB=00000001 
+L	108	1	imm=00000001 
+S	109	0	EX
+L	109	1	opA=80000364 
+L	109	1	opB=00000001 
+L	109	1	imm=00000001 
+S	104	0	WFC
+L	104	1	res=00000000
+S	105	0	WFC
+L	105	1	res=00000000
+S	111	0	IS
+S	112	0	RN
+S	113	0	RN
+S	114	0	RN
+S	115	0	RN
+C	1
+S	107	0	LD
+S	106	0	LD
+S	112	0	IS
+S	113	0	IS
+S	114	0	IS
+S	115	0	IS
+C	1
+S	107	0	EX
+L	107	1	opA=00000053 
+L	107	1	opB=00000000 
+L	107	1	imm=00000026 
+S	106	0	EX
+L	106	1	opA=00000053 
+L	106	1	opB=00000053 
+L	106	1	imm=0000002a 
+S	108	0	WFC
+L	108	1	res=00000000
+S	109	0	WFC
+L	109	1	res=00000000
+S	104	0	COM
+R	104	63	0
+S	105	0	COM
+R	105	64	0
+I	116	29	0
+L	116	0	[08495]800001e0 (00350603): lb      a2, 3(a0)
+S	116	0	DEC
+I	117	29	0
+L	117	0	[08495]800001e4 (00358683): lb      a3, 3(a1)
+S	117	0	DEC
+I	118	29	0
+L	118	0	[08495]800001e8 (40d60533): sub     a0, a2, a3
+S	118	0	DEC
+I	119	29	0
+L	119	0	[08495]800001ec (00008082): ret
+S	119	0	DEC
+C	1
+S	110	0	LD
+S	111	0	LD
+S	112	0	LD
+S	113	0	LD
+S	107	0	WFC
+L	107	1	res=00000000
+S	106	0	WFC
+L	106	1	res=00000000
+S	116	0	RN
+S	117	0	RN
+S	118	0	RN
+S	119	0	RN
+I	120	30	0
+L	120	0	[08497]80000314 (0000147d): c.addi  s0, -1
+S	120	0	DEC
+I	121	30	0
+L	121	0	[08497]80000316 (0000f475): c.bnez  s0, pc - 20
+S	121	0	DEC
+C	1
+S	110	0	EX
+L	110	1	opA=00000074 
+L	110	1	opB=00000074 
+L	110	1	imm=0000001c 
+S	111	0	EX
+L	111	1	opA=00000074 
+L	111	1	opB=00000000 
+L	111	1	imm=00000018 
+S	112	0	EX
+L	112	1	opA=80000358 
+L	112	1	opB=00000002 
+L	112	1	imm=00000002 
+S	113	0	EX
+L	113	1	opA=80000364 
+L	113	1	opB=00000002 
+L	113	1	imm=00000002 
+S	116	0	IS
+S	117	0	IS
+S	118	0	IS
+S	119	0	IS
+S	120	0	RN
+S	121	0	RN
+I	122	31	0
+L	122	0	[08499]80000302 (00000517): auipc   a0, 0x0
+S	122	0	DEC
+I	123	31	0
+L	123	0	[08499]80000306 (05650513): addi    a0, a0, 86
+S	123	0	DEC
+I	124	31	0
+L	124	0	[08499]8000030a (00000597): auipc   a1, 0x0
+S	124	0	DEC
+C	1
+S	110	0	WFC
+L	110	1	res=00000000
+S	111	0	WFC
+L	111	1	res=00000000
+S	106	0	COM
+R	106	65	0
+S	120	0	IS
+S	121	0	IS
+S	122	0	RN
+S	123	0	RN
+S	124	0	RN
+I	125	0	0
+L	125	0	[08501]8000030e (05a58593): addi    a1, a1, 90
+S	125	0	DEC
+I	126	0	0
+L	126	0	[08501]80000312 (000035bd): c.jal   pc - 402
+S	126	0	DEC
+C	1
+S	119	0	LD
+S	116	0	LD
+S	117	0	LD
+S	112	0	WFC
+L	112	1	res=00000000
+S	113	0	WFC
+L	113	1	res=00000000
+S	107	0	COM
+R	107	66	0
+S	108	0	COM
+R	108	67	0
+S	109	0	COM
+R	109	68	0
+S	122	0	IS
+S	123	0	IS
+S	124	0	IS
+S	125	0	RN
+S	126	0	RN
+I	127	1	0
+L	127	0	[08503]80000180 (0000577d): c.li    a4, -1
+S	127	0	DEC
+I	128	1	0
+L	128	0	[08503]80000182 (00000001): c.nop
+S	128	0	DEC
+I	129	1	0
+L	129	0	[08503]80000184 (00000013): nop
+S	129	0	DEC
+I	130	1	0
+L	130	0	[08503]80000188 (00000013): nop
+S	130	0	DEC
+C	1
+S	115	0	LD
+S	114	0	LD
+S	120	0	LD
+S	119	0	EX
+L	119	1	opA=80000314 
+L	119	1	opB=80000314 
+L	119	1	imm=00000000 
+S	116	0	EX
+L	116	1	opA=80000358 
+L	116	1	opB=00000003 
+L	116	1	imm=00000003 
+S	117	0	EX
+L	117	1	opA=80000364 
+L	117	1	opB=00000003 
+L	117	1	imm=00000003 
+S	110	0	COM
+R	110	69	0
+S	125	0	IS
+S	126	0	IS
+S	127	0	RN
+S	128	0	RN
+S	129	0	RN
+S	130	0	RN
+I	131	1	0
+L	131	0	[08505]8000018c (00000013): nop
+S	131	0	DEC
+I	132	2	0
+L	132	0	[08505]80000190 (00004110): c.lw    a2, 0(a0)
+S	132	0	DEC
+I	133	2	0
+L	133	0	[08505]80000192 (00004194): c.lw    a3, 0(a1)
+S	133	0	DEC
+I	134	2	0
+L	134	0	[08505]80000194 (02d61163): bne     a2, a3, pc + 34
+S	134	0	DEC
+C	1
+S	121	0	LD
+S	122	0	LD
+S	115	0	EX
+L	115	1	opA=00000072 
+L	115	1	opB=00000000 
+L	115	1	imm=0000000a 
+S	114	0	EX
+L	114	1	opA=00000072 
+L	114	1	opB=00000072 
+L	114	1	imm=0000000e 
+S	120	0	EX
+L	120	1	opA=00000009 
+L	120	1	opB=ffffffff 
+L	120	1	imm=ffffffff 
+S	119	0	WFC
+L	119	1	res=00000000
+S	111	0	COM
+R	111	70	0
+S	112	0	COM
+R	112	71	0
+S	113	0	COM
+R	113	72	0
+S	127	0	WFC
+S	128	0	WFC
+S	129	0	WFC
+S	130	0	WFC
+S	131	0	RN
+S	132	0	RN
+S	133	0	RN
+S	134	0	RN
+I	135	3	0
+L	135	0	[08507]80000198 (28765613): orc.b   a2, a2
+S	135	0	DEC
+I	136	3	0
+L	136	0	[08507]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	136	0	DEC
+C	1
+S	124	0	LD
+S	123	0	LD
+S	121	0	EX
+L	121	1	opA=00000008 
+L	121	1	opB=00000000 
+L	121	1	imm=ffffffec 
+S	122	0	EX
+L	122	1	opA=00000000 
+L	122	1	opB=00000000 
+L	122	1	imm=00000000 
+S	115	0	WFC
+L	115	1	res=00000000
+S	114	0	WFC
+L	114	1	res=00000000
+S	120	0	WFC
+L	120	1	res=00000000
+S	117	0	WFC
+L	117	1	res=00000000
+S	116	0	WFC
+L	116	1	res=00000000
+S	131	0	WFC
+S	132	0	IS
+S	133	0	IS
+S	134	0	IS
+S	135	0	RN
+S	136	0	RN
+I	137	4	0
+L	137	0	[08509]800001a0 (00004150): c.lw    a2, 4(a0)
+S	137	0	DEC
+I	138	4	0
+L	138	0	[08509]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	138	0	DEC
+I	139	4	0
+L	139	0	[08509]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	139	0	DEC
+C	1
+S	118	0	LD
+S	125	0	LD
+S	124	0	EX
+L	124	1	opA=00000000 
+L	124	1	opB=00000000 
+L	124	1	imm=00000000 
+S	123	0	EX
+L	123	1	opA=80000302 
+L	123	1	opB=00000056 
+L	123	1	imm=00000056 
+S	121	0	WFC
+L	121	1	res=00000000
+S	122	0	WFC
+L	122	1	res=00000000
+S	135	0	IS
+S	136	0	IS
+S	137	0	RN
+S	138	0	RN
+S	139	0	RN
+I	140	5	0
+L	140	0	[08511]800001b6 (00050603): lb      a2, 0(a0)
+S	140	0	DEC
+I	141	5	0
+L	141	0	[08511]800001ba (00058683): lb      a3, 0(a1)
+S	141	0	DEC
+C	1
+S	126	0	LD
+S	133	0	LD
+S	118	0	EX
+L	118	1	opA=00000069 
+L	118	1	opB=00000069 
+L	118	1	imm=00000000 
+S	125	0	EX
+L	125	1	opA=8000030a 
+L	125	1	opB=0000005a 
+L	125	1	imm=0000005a 
+S	124	0	WFC
+L	124	1	res=00000000
+S	123	0	WFC
+L	123	1	res=00000000
+S	114	0	COM
+R	114	73	0
+S	137	0	IS
+S	138	0	IS
+S	139	0	IS
+S	140	0	RN
+S	141	0	RN
+I	142	6	0
+L	142	0	[08513]800001be (02d61563): bne     a2, a3, pc + 42
+S	142	0	DEC
+C	1
+S	132	0	LD
+S	126	0	EX
+L	126	1	opA=00000000 
+L	126	1	opB=fffffe6e 
+L	126	1	imm=fffffe6e 
+S	133	0	EX
+L	133	1	opA=80000364 
+L	133	1	opB=00000000 
+L	133	1	imm=00000000 
+S	118	0	WFC
+L	118	1	res=00000000
+S	125	0	WFC
+L	125	1	res=00000000
+S	115	0	COM
+R	115	74	0
+S	116	0	COM
+R	116	75	0
+S	117	0	COM
+R	117	76	0
+S	140	0	IS
+S	141	0	IS
+S	142	0	RN
+I	143	7	0
+L	143	0	[08515]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	143	0	DEC
+C	1
+S	137	0	LD
+S	138	0	LD
+S	132	0	EX
+L	132	1	opA=80000358 
+L	132	1	opB=00000000 
+L	132	1	imm=00000000 
+S	126	0	WFC
+L	126	1	res=00000000
+S	142	0	IS
+S	143	0	RN
+I	144	8	0
+L	144	0	[08517]800001c4 (00150603): lb      a2, 1(a0)
+S	144	0	DEC
+I	145	8	0
+L	145	0	[08517]800001c8 (00158683): lb      a3, 1(a1)
+S	145	0	DEC
+I	146	8	0
+L	146	0	[08517]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	146	0	DEC
+C	1
+S	140	0	LD
+S	141	0	LD
+S	137	0	EX
+L	137	1	opA=80000358 
+L	137	1	opB=00000004 
+L	137	1	imm=00000004 
+S	138	0	EX
+L	138	1	opA=80000364 
+L	138	1	opB=00000004 
+L	138	1	imm=00000004 
+S	133	0	WFC
+L	133	1	res=00000000
+S	118	0	COM
+R	118	77	0
+S	119	0	COM
+R	119	78	0
+S	120	0	COM
+R	120	79	0
+S	121	0	COM
+R	121	80	0
+S	143	0	IS
+S	144	0	RN
+S	145	0	RN
+S	146	0	RN
+I	147	9	0
+L	147	0	[08519]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	147	0	DEC
+C	1
+S	140	0	EX
+L	140	1	opA=80000358 
+L	140	1	opB=00000000 
+L	140	1	imm=00000000 
+S	141	0	EX
+L	141	1	opA=80000364 
+L	141	1	opB=00000000 
+L	141	1	imm=00000000 
+S	132	0	WFC
+L	132	1	res=00000000
+S	122	0	COM
+R	122	81	0
+S	123	0	COM
+R	123	82	0
+S	124	0	COM
+R	124	83	0
+S	125	0	COM
+R	125	84	0
+S	144	0	IS
+S	145	0	IS
+S	146	0	IS
+S	147	0	RN
+I	148	10	0
+L	148	0	[08521]800001d2 (00250603): lb      a2, 2(a0)
+S	148	0	DEC
+I	149	10	0
+L	149	0	[08521]800001d6 (00258683): lb      a3, 2(a1)
+S	149	0	DEC
+I	150	10	0
+L	150	0	[08521]800001da (00d61763): bne     a2, a3, pc + 14
+S	150	0	DEC
+C	1
+S	134	0	LD
+S	135	0	LD
+S	137	0	WFC
+L	137	1	res=00000000
+S	138	0	WFC
+L	138	1	res=00000000
+S	126	0	COM
+R	126	85	0
+S	127	0	COM
+R	127	86	0
+S	128	0	COM
+R	128	87	0
+S	129	0	COM
+R	129	88	0
+S	147	0	IS
+S	148	0	RN
+S	149	0	RN
+S	150	0	RN
+I	151	11	0
+L	151	0	[08523]800001de (0000c609): c.beqz  a2, pc + 10
+S	151	0	DEC
+C	1
+S	136	0	LD
+S	144	0	LD
+S	145	0	LD
+S	134	0	EX
+L	134	1	opA=69727453 
+L	134	1	opB=69727453 
+L	134	1	imm=00000022 
+S	135	0	EX
+L	135	1	opA=69727453 
+L	135	1	opB=00000287 
+L	135	1	imm=00000287 
+S	141	0	WFC
+L	141	1	res=00000000
+S	140	0	WFC
+L	140	1	res=00000000
+S	130	0	COM
+R	130	89	0
+S	131	0	COM
+R	131	90	0
+S	132	0	COM
+R	132	91	0
+S	133	0	COM
+R	133	92	0
+S	148	0	IS
+S	149	0	IS
+S	150	0	IS
+S	151	0	RN
+I	152	12	0
+L	152	0	[08525]800001e0 (00350603): lb      a2, 3(a0)
+S	152	0	DEC
+I	153	12	0
+L	153	0	[08525]800001e4 (00358683): lb      a3, 3(a1)
+S	153	0	DEC
+I	154	12	0
+L	154	0	[08525]800001e8 (40d60533): sub     a0, a2, a3
+S	154	0	DEC
+I	155	12	0
+L	155	0	[08525]800001ec (00008082): ret
+S	155	0	DEC
+C	1
+S	139	0	LD
+S	143	0	LD
+S	136	0	EX
+L	136	1	opA=ffffffff 
+L	136	1	opB=ffffffff 
+L	136	1	imm=0000001a 
+S	144	0	EX
+L	144	1	opA=80000358 
+L	144	1	opB=00000001 
+L	144	1	imm=00000001 
+S	145	0	EX
+L	145	1	opA=80000364 
+L	145	1	opB=00000001 
+L	145	1	imm=00000001 
+S	134	0	WFC
+L	134	1	res=00000000
+S	135	0	WFC
+L	135	1	res=00000000
+S	151	0	IS
+S	152	0	RN
+S	153	0	RN
+S	154	0	RN
+S	155	0	RN
+I	156	13	0
+L	156	0	[08527]80000314 (0000147d): c.addi  s0, -1
+S	156	0	DEC
+I	157	13	0
+L	157	0	[08527]80000316 (0000f475): c.bnez  s0, pc - 20
+S	157	0	DEC
+C	1
+S	142	0	LD
+S	148	0	LD
+S	149	0	LD
+S	139	0	EX
+L	139	1	opA=4120676e 
+L	139	1	opB=4220676e 
+L	139	1	imm=00000012 
+S	143	0	EX
+L	143	1	opA=00000053 
+L	143	1	opB=00000000 
+L	143	1	imm=00000026 
+S	136	0	WFC
+L	136	1	res=00000000
+S	152	0	IS
+S	153	0	IS
+S	154	0	IS
+S	155	0	IS
+S	156	0	RN
+S	157	0	RN
+I	158	14	0
+L	158	0	[08529]80000302 (00000517): auipc   a0, 0x0
+S	158	0	DEC
+I	159	14	0
+L	159	0	[08529]80000306 (05650513): addi    a0, a0, 86
+S	159	0	DEC
+I	160	14	0
+L	160	0	[08529]8000030a (00000597): auipc   a1, 0x0
+S	160	0	DEC
+C	1
+S	142	0	EX
+L	142	1	opA=00000053 
+L	142	1	opB=00000053 
+L	142	1	imm=0000002a 
+S	148	0	EX
+L	148	1	opA=80000358 
+L	148	1	opB=00000002 
+L	148	1	imm=00000002 
+S	149	0	EX
+L	149	1	opA=80000364 
+L	149	1	opB=00000002 
+L	149	1	imm=00000002 
+S	139	0	WFC
+L	139	1	res=00000000
+S	143	0	WFC
+L	143	1	res=00000000
+S	144	0	WFC
+L	144	1	res=00000000
+S	145	0	WFC
+L	145	1	res=00000000
+S	134	0	COM
+R	134	93	0
+S	135	0	COM
+R	135	94	0
+S	156	0	IS
+S	157	0	IS
+S	158	0	RN
+S	159	0	RN
+S	160	0	RN
+I	161	15	0
+L	161	0	[08531]8000030e (05a58593): addi    a1, a1, 90
+S	161	0	DEC
+I	162	15	0
+L	162	0	[08531]80000312 (000035bd): c.jal   pc - 402
+S	162	0	DEC
+C	1
+S	147	0	LD
+S	146	0	LD
+S	152	0	LD
+S	153	0	LD
+S	142	0	WFC
+L	142	1	res=00000000
+S	136	0	COM
+R	136	95	0
+S	137	0	COM
+R	137	96	0
+S	138	0	COM
+R	138	97	0
+S	158	0	IS
+S	159	0	IS
+S	160	0	IS
+S	161	0	RN
+S	162	0	RN
+I	163	16	0
+L	163	0	[08533]80000180 (0000577d): c.li    a4, -1
+S	163	0	DEC
+I	164	16	0
+L	164	0	[08533]80000182 (00000001): c.nop
+S	164	0	DEC
+I	165	16	0
+L	165	0	[08533]80000184 (00000013): nop
+S	165	0	DEC
+I	166	16	0
+L	166	0	[08533]80000188 (00000013): nop
+S	166	0	DEC
+C	1
+S	155	0	LD
+S	156	0	LD
+S	147	0	EX
+L	147	1	opA=00000074 
+L	147	1	opB=00000000 
+L	147	1	imm=00000018 
+S	146	0	EX
+L	146	1	opA=00000074 
+L	146	1	opB=00000074 
+L	146	1	imm=0000001c 
+S	152	0	EX
+L	152	1	opA=80000358 
+L	152	1	opB=00000003 
+L	152	1	imm=00000003 
+S	153	0	EX
+L	153	1	opA=80000364 
+L	153	1	opB=00000003 
+L	153	1	imm=00000003 
+S	148	0	WFC
+L	148	1	res=00000000
+S	149	0	WFC
+L	149	1	res=00000000
+S	139	0	COM
+R	139	98	0
+S	140	0	COM
+R	140	99	0
+S	141	0	COM
+R	141	100	0
+S	161	0	IS
+S	162	0	IS
+S	163	0	RN
+S	164	0	RN
+S	165	0	RN
+S	166	0	RN
+I	167	16	0
+L	167	0	[08535]8000018c (00000013): nop
+S	167	0	DEC
+I	168	17	0
+L	168	0	[08535]80000190 (00004110): c.lw    a2, 0(a0)
+S	168	0	DEC
+I	169	17	0
+L	169	0	[08535]80000192 (00004194): c.lw    a3, 0(a1)
+S	169	0	DEC
+I	170	17	0
+L	170	0	[08535]80000194 (02d61163): bne     a2, a3, pc + 34
+S	170	0	DEC
+C	1
+S	150	0	LD
+S	151	0	LD
+S	155	0	EX
+L	155	1	opA=80000314 
+L	155	1	opB=80000314 
+L	155	1	imm=00000000 
+S	156	0	EX
+L	156	1	opA=00000008 
+L	156	1	opB=ffffffff 
+L	156	1	imm=ffffffff 
+S	147	0	WFC
+L	147	1	res=00000000
+S	146	0	WFC
+L	146	1	res=00000000
+S	142	0	COM
+R	142	101	0
+S	163	0	WFC
+S	164	0	WFC
+S	165	0	WFC
+S	166	0	WFC
+S	167	0	RN
+S	168	0	RN
+S	169	0	RN
+S	170	0	RN
+I	171	18	0
+L	171	0	[08537]80000198 (28765613): orc.b   a2, a2
+S	171	0	DEC
+I	172	18	0
+L	172	0	[08537]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	172	0	DEC
+C	1
+S	157	0	LD
+S	158	0	LD
+S	150	0	EX
+L	150	1	opA=00000072 
+L	150	1	opB=00000072 
+L	150	1	imm=0000000e 
+S	151	0	EX
+L	151	1	opA=00000072 
+L	151	1	opB=00000000 
+L	151	1	imm=0000000a 
+S	155	0	WFC
+L	155	1	res=00000000
+S	156	0	WFC
+L	156	1	res=00000000
+S	152	0	WFC
+L	152	1	res=00000000
+S	153	0	WFC
+L	153	1	res=00000000
+S	143	0	COM
+R	143	102	0
+S	144	0	COM
+R	144	103	0
+S	145	0	COM
+R	145	104	0
+S	167	0	WFC
+S	168	0	IS
+S	169	0	IS
+S	170	0	IS
+S	171	0	RN
+S	172	0	RN
+I	173	19	0
+L	173	0	[08539]800001a0 (00004150): c.lw    a2, 4(a0)
+S	173	0	DEC
+I	174	19	0
+L	174	0	[08539]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	174	0	DEC
+I	175	19	0
+L	175	0	[08539]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	175	0	DEC
+C	1
+S	160	0	LD
+S	154	0	LD
+S	159	0	LD
+S	157	0	EX
+L	157	1	opA=00000007 
+L	157	1	opB=00000000 
+L	157	1	imm=ffffffec 
+S	158	0	EX
+L	158	1	opA=00000000 
+L	158	1	opB=00000000 
+L	158	1	imm=00000000 
+S	150	0	WFC
+L	150	1	res=00000000
+S	151	0	WFC
+L	151	1	res=00000000
+S	146	0	COM
+R	146	105	0
+S	171	0	IS
+S	172	0	IS
+S	173	0	RN
+S	174	0	RN
+S	175	0	RN
+I	176	20	0
+L	176	0	[08541]800001b6 (00050603): lb      a2, 0(a0)
+S	176	0	DEC
+I	177	20	0
+L	177	0	[08541]800001ba (00058683): lb      a3, 0(a1)
+S	177	0	DEC
+C	1
+S	162	0	LD
+S	161	0	LD
+S	168	0	LD
+S	160	0	EX
+L	160	1	opA=00000000 
+L	160	1	opB=00000000 
+L	160	1	imm=00000000 
+S	154	0	EX
+L	154	1	opA=00000069 
+L	154	1	opB=00000069 
+L	154	1	imm=00000000 
+S	159	0	EX
+L	159	1	opA=80000302 
+L	159	1	opB=00000056 
+L	159	1	imm=00000056 
+S	157	0	WFC
+L	157	1	res=00000000
+S	158	0	WFC
+L	158	1	res=00000000
+S	147	0	COM
+R	147	106	0
+S	148	0	COM
+R	148	107	0
+S	149	0	COM
+R	149	108	0
+S	173	0	IS
+S	174	0	IS
+S	175	0	IS
+S	176	0	RN
+S	177	0	RN
+I	178	21	0
+L	178	0	[08543]800001be (02d61563): bne     a2, a3, pc + 42
+S	178	0	DEC
+C	1
+S	169	0	LD
+S	162	0	EX
+L	162	1	opA=00000000 
+L	162	1	opB=fffffe6e 
+L	162	1	imm=fffffe6e 
+S	161	0	EX
+L	161	1	opA=8000030a 
+L	161	1	opB=0000005a 
+L	161	1	imm=0000005a 
+S	168	0	EX
+L	168	1	opA=80000358 
+L	168	1	opB=00000000 
+L	168	1	imm=00000000 
+S	160	0	WFC
+L	160	1	res=00000000
+S	154	0	WFC
+L	154	1	res=00000000
+S	159	0	WFC
+L	159	1	res=00000000
+S	150	0	COM
+R	150	109	0
+S	176	0	IS
+S	177	0	IS
+S	178	0	RN
+I	179	22	0
+L	179	0	[08545]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	179	0	DEC
+C	1
+S	173	0	LD
+S	169	0	EX
+L	169	1	opA=80000364 
+L	169	1	opB=00000000 
+L	169	1	imm=00000000 
+S	162	0	WFC
+L	162	1	res=00000000
+S	161	0	WFC
+L	161	1	res=00000000
+S	151	0	COM
+R	151	110	0
+S	152	0	COM
+R	152	111	0
+S	153	0	COM
+R	153	112	0
+S	178	0	IS
+S	179	0	RN
+I	180	23	0
+L	180	0	[08547]800001c4 (00150603): lb      a2, 1(a0)
+S	180	0	DEC
+I	181	23	0
+L	181	0	[08547]800001c8 (00158683): lb      a3, 1(a1)
+S	181	0	DEC
+I	182	23	0
+L	182	0	[08547]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	182	0	DEC
+C	1
+S	176	0	LD
+S	174	0	LD
+S	173	0	EX
+L	173	1	opA=80000358 
+L	173	1	opB=00000004 
+L	173	1	imm=00000004 
+S	168	0	WFC
+L	168	1	res=00000000
+S	154	0	COM
+R	154	113	0
+S	155	0	COM
+R	155	114	0
+S	156	0	COM
+R	156	115	0
+S	157	0	COM
+R	157	116	0
+S	179	0	IS
+S	180	0	RN
+S	181	0	RN
+S	182	0	RN
+I	183	24	0
+L	183	0	[08549]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	183	0	DEC
+C	1
+S	171	0	LD
+S	177	0	LD
+S	176	0	EX
+L	176	1	opA=80000358 
+L	176	1	opB=00000000 
+L	176	1	imm=00000000 
+S	174	0	EX
+L	174	1	opA=80000364 
+L	174	1	opB=00000004 
+L	174	1	imm=00000004 
+S	169	0	WFC
+L	169	1	res=00000000
+S	158	0	COM
+R	158	117	0
+S	159	0	COM
+R	159	118	0
+S	160	0	COM
+R	160	119	0
+S	161	0	COM
+R	161	120	0
+S	180	0	IS
+S	181	0	IS
+S	182	0	IS
+S	183	0	RN
+I	184	25	0
+L	184	0	[08551]800001d2 (00250603): lb      a2, 2(a0)
+S	184	0	DEC
+I	185	25	0
+L	185	0	[08551]800001d6 (00258683): lb      a3, 2(a1)
+S	185	0	DEC
+I	186	25	0
+L	186	0	[08551]800001da (00d61763): bne     a2, a3, pc + 14
+S	186	0	DEC
+C	1
+S	170	0	LD
+S	171	0	EX
+L	171	1	opA=69727453 
+L	171	1	opB=00000287 
+L	171	1	imm=00000287 
+S	177	0	EX
+L	177	1	opA=80000364 
+L	177	1	opB=00000000 
+L	177	1	imm=00000000 
+S	173	0	WFC
+L	173	1	res=00000000
+S	162	0	COM
+R	162	121	0
+S	163	0	COM
+R	163	122	0
+S	164	0	COM
+R	164	123	0
+S	165	0	COM
+R	165	124	0
+S	183	0	IS
+S	184	0	RN
+S	185	0	RN
+S	186	0	RN
+I	187	26	0
+L	187	0	[08553]800001de (0000c609): c.beqz  a2, pc + 10
+S	187	0	DEC
+C	1
+S	172	0	LD
+S	180	0	LD
+S	181	0	LD
+S	170	0	EX
+L	170	1	opA=69727453 
+L	170	1	opB=69727453 
+L	170	1	imm=00000022 
+S	171	0	WFC
+L	171	1	res=00000000
+S	176	0	WFC
+L	176	1	res=00000000
+S	174	0	WFC
+L	174	1	res=00000000
+S	166	0	COM
+R	166	125	0
+S	167	0	COM
+R	167	126	0
+S	168	0	COM
+R	168	127	0
+S	169	0	COM
+R	169	0	0
+S	184	0	IS
+S	185	0	IS
+S	186	0	IS
+S	187	0	RN
+I	188	27	0
+L	188	0	[08555]800001e0 (00350603): lb      a2, 3(a0)
+S	188	0	DEC
+I	189	27	0
+L	189	0	[08555]800001e4 (00358683): lb      a3, 3(a1)
+S	189	0	DEC
+I	190	27	0
+L	190	0	[08555]800001e8 (40d60533): sub     a0, a2, a3
+S	190	0	DEC
+I	191	27	0
+L	191	0	[08555]800001ec (00008082): ret
+S	191	0	DEC
+C	1
+S	175	0	LD
+S	179	0	LD
+S	172	0	EX
+L	172	1	opA=ffffffff 
+L	172	1	opB=ffffffff 
+L	172	1	imm=0000001a 
+S	180	0	EX
+L	180	1	opA=80000358 
+L	180	1	opB=00000001 
+L	180	1	imm=00000001 
+S	181	0	EX
+L	181	1	opA=80000364 
+L	181	1	opB=00000001 
+L	181	1	imm=00000001 
+S	170	0	WFC
+L	170	1	res=00000000
+S	177	0	WFC
+L	177	1	res=00000000
+S	187	0	IS
+S	188	0	RN
+S	189	0	RN
+S	190	0	RN
+S	191	0	RN
+I	192	28	0
+L	192	0	[08557]80000314 (0000147d): c.addi  s0, -1
+S	192	0	DEC
+I	193	28	0
+L	193	0	[08557]80000316 (0000f475): c.bnez  s0, pc - 20
+S	193	0	DEC
+C	1
+S	178	0	LD
+S	184	0	LD
+S	185	0	LD
+S	175	0	EX
+L	175	1	opA=4120676e 
+L	175	1	opB=4220676e 
+L	175	1	imm=00000012 
+S	179	0	EX
+L	179	1	opA=00000053 
+L	179	1	opB=00000000 
+L	179	1	imm=00000026 
+S	172	0	WFC
+L	172	1	res=00000000
+S	188	0	IS
+S	189	0	IS
+S	190	0	IS
+S	191	0	IS
+S	192	0	RN
+S	193	0	RN
+I	194	29	0
+L	194	0	[08559]80000302 (00000517): auipc   a0, 0x0
+S	194	0	DEC
+I	195	29	0
+L	195	0	[08559]80000306 (05650513): addi    a0, a0, 86
+S	195	0	DEC
+I	196	29	0
+L	196	0	[08559]8000030a (00000597): auipc   a1, 0x0
+S	196	0	DEC
+C	1
+S	178	0	EX
+L	178	1	opA=00000053 
+L	178	1	opB=00000053 
+L	178	1	imm=0000002a 
+S	184	0	EX
+L	184	1	opA=80000358 
+L	184	1	opB=00000002 
+L	184	1	imm=00000002 
+S	185	0	EX
+L	185	1	opA=80000364 
+L	185	1	opB=00000002 
+L	185	1	imm=00000002 
+S	175	0	WFC
+L	175	1	res=00000000
+S	179	0	WFC
+L	179	1	res=00000000
+S	181	0	WFC
+L	181	1	res=00000000
+S	180	0	WFC
+L	180	1	res=00000000
+S	170	0	COM
+R	170	1	0
+S	171	0	COM
+R	171	2	0
+S	192	0	IS
+S	193	0	IS
+S	194	0	RN
+S	195	0	RN
+S	196	0	RN
+I	197	30	0
+L	197	0	[08561]8000030e (05a58593): addi    a1, a1, 90
+S	197	0	DEC
+I	198	30	0
+L	198	0	[08561]80000312 (000035bd): c.jal   pc - 402
+S	198	0	DEC
+C	1
+S	183	0	LD
+S	182	0	LD
+S	188	0	LD
+S	189	0	LD
+S	178	0	WFC
+L	178	1	res=00000000
+S	172	0	COM
+R	172	3	0
+S	173	0	COM
+R	173	4	0
+S	174	0	COM
+R	174	5	0
+S	194	0	IS
+S	195	0	IS
+S	196	0	IS
+S	197	0	RN
+S	198	0	RN
+I	199	31	0
+L	199	0	[08563]80000180 (0000577d): c.li    a4, -1
+S	199	0	DEC
+I	200	31	0
+L	200	0	[08563]80000182 (00000001): c.nop
+S	200	0	DEC
+I	201	31	0
+L	201	0	[08563]80000184 (00000013): nop
+S	201	0	DEC
+I	202	31	0
+L	202	0	[08563]80000188 (00000013): nop
+S	202	0	DEC
+C	1
+S	191	0	LD
+S	192	0	LD
+S	183	0	EX
+L	183	1	opA=00000074 
+L	183	1	opB=00000000 
+L	183	1	imm=00000018 
+S	182	0	EX
+L	182	1	opA=00000074 
+L	182	1	opB=00000074 
+L	182	1	imm=0000001c 
+S	188	0	EX
+L	188	1	opA=80000358 
+L	188	1	opB=00000003 
+L	188	1	imm=00000003 
+S	189	0	EX
+L	189	1	opA=80000364 
+L	189	1	opB=00000003 
+L	189	1	imm=00000003 
+S	185	0	WFC
+L	185	1	res=00000000
+S	184	0	WFC
+L	184	1	res=00000000
+S	175	0	COM
+R	175	6	0
+S	176	0	COM
+R	176	7	0
+S	177	0	COM
+R	177	8	0
+S	197	0	IS
+S	198	0	IS
+S	199	0	RN
+S	200	0	RN
+S	201	0	RN
+S	202	0	RN
+I	203	31	0
+L	203	0	[08565]8000018c (00000013): nop
+S	203	0	DEC
+I	204	0	0
+L	204	0	[08565]80000190 (00004110): c.lw    a2, 0(a0)
+S	204	0	DEC
+I	205	0	0
+L	205	0	[08565]80000192 (00004194): c.lw    a3, 0(a1)
+S	205	0	DEC
+I	206	0	0
+L	206	0	[08565]80000194 (02d61163): bne     a2, a3, pc + 34
+S	206	0	DEC
+C	1
+S	186	0	LD
+S	187	0	LD
+S	191	0	EX
+L	191	1	opA=80000314 
+L	191	1	opB=80000314 
+L	191	1	imm=00000000 
+S	192	0	EX
+L	192	1	opA=00000007 
+L	192	1	opB=ffffffff 
+L	192	1	imm=ffffffff 
+S	183	0	WFC
+L	183	1	res=00000000
+S	182	0	WFC
+L	182	1	res=00000000
+S	178	0	COM
+R	178	9	0
+S	199	0	WFC
+S	200	0	WFC
+S	201	0	WFC
+S	202	0	WFC
+S	203	0	RN
+S	204	0	RN
+S	205	0	RN
+S	206	0	RN
+I	207	1	0
+L	207	0	[08567]80000198 (28765613): orc.b   a2, a2
+S	207	0	DEC
+I	208	1	0
+L	208	0	[08567]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	208	0	DEC
+C	1
+S	193	0	LD
+S	194	0	LD
+S	186	0	EX
+L	186	1	opA=00000072 
+L	186	1	opB=00000072 
+L	186	1	imm=0000000e 
+S	187	0	EX
+L	187	1	opA=00000072 
+L	187	1	opB=00000000 
+L	187	1	imm=0000000a 
+S	191	0	WFC
+L	191	1	res=00000000
+S	192	0	WFC
+L	192	1	res=00000000
+S	189	0	WFC
+L	189	1	res=00000000
+S	188	0	WFC
+L	188	1	res=00000000
+S	179	0	COM
+R	179	10	0
+S	180	0	COM
+R	180	11	0
+S	181	0	COM
+R	181	12	0
+S	203	0	WFC
+S	204	0	IS
+S	205	0	IS
+S	206	0	IS
+S	207	0	RN
+S	208	0	RN
+I	209	2	0
+L	209	0	[08569]800001a0 (00004150): c.lw    a2, 4(a0)
+S	209	0	DEC
+I	210	2	0
+L	210	0	[08569]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	210	0	DEC
+I	211	2	0
+L	211	0	[08569]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	211	0	DEC
+C	1
+S	196	0	LD
+S	190	0	LD
+S	195	0	LD
+S	193	0	EX
+L	193	1	opA=00000006 
+L	193	1	opB=00000000 
+L	193	1	imm=ffffffec 
+S	194	0	EX
+L	194	1	opA=00000000 
+L	194	1	opB=00000000 
+L	194	1	imm=00000000 
+S	186	0	WFC
+L	186	1	res=00000000
+S	187	0	WFC
+L	187	1	res=00000000
+S	182	0	COM
+R	182	13	0
+S	207	0	IS
+S	208	0	IS
+S	209	0	RN
+S	210	0	RN
+S	211	0	RN
+I	212	3	0
+L	212	0	[08571]800001b6 (00050603): lb      a2, 0(a0)
+S	212	0	DEC
+I	213	3	0
+L	213	0	[08571]800001ba (00058683): lb      a3, 0(a1)
+S	213	0	DEC
+C	1
+S	198	0	LD
+S	197	0	LD
+S	204	0	LD
+S	196	0	EX
+L	196	1	opA=00000000 
+L	196	1	opB=00000000 
+L	196	1	imm=00000000 
+S	190	0	EX
+L	190	1	opA=00000069 
+L	190	1	opB=00000069 
+L	190	1	imm=00000000 
+S	195	0	EX
+L	195	1	opA=80000302 
+L	195	1	opB=00000056 
+L	195	1	imm=00000056 
+S	193	0	WFC
+L	193	1	res=00000000
+S	194	0	WFC
+L	194	1	res=00000000
+S	183	0	COM
+R	183	14	0
+S	184	0	COM
+R	184	15	0
+S	185	0	COM
+R	185	16	0
+S	209	0	IS
+S	210	0	IS
+S	211	0	IS
+S	212	0	RN
+S	213	0	RN
+I	214	4	0
+L	214	0	[08573]800001be (02d61563): bne     a2, a3, pc + 42
+S	214	0	DEC
+C	1
+S	205	0	LD
+S	198	0	EX
+L	198	1	opA=00000000 
+L	198	1	opB=fffffe6e 
+L	198	1	imm=fffffe6e 
+S	197	0	EX
+L	197	1	opA=8000030a 
+L	197	1	opB=0000005a 
+L	197	1	imm=0000005a 
+S	204	0	EX
+L	204	1	opA=80000358 
+L	204	1	opB=00000000 
+L	204	1	imm=00000000 
+S	196	0	WFC
+L	196	1	res=00000000
+S	190	0	WFC
+L	190	1	res=00000000
+S	195	0	WFC
+L	195	1	res=00000000
+S	186	0	COM
+R	186	17	0
+S	212	0	IS
+S	213	0	IS
+S	214	0	RN
+I	215	5	0
+L	215	0	[08575]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	215	0	DEC
+C	1
+S	209	0	LD
+S	205	0	EX
+L	205	1	opA=80000364 
+L	205	1	opB=00000000 
+L	205	1	imm=00000000 
+S	198	0	WFC
+L	198	1	res=00000000
+S	197	0	WFC
+L	197	1	res=00000000
+S	187	0	COM
+R	187	18	0
+S	188	0	COM
+R	188	19	0
+S	189	0	COM
+R	189	20	0
+S	214	0	IS
+S	215	0	RN
+I	216	6	0
+L	216	0	[08577]800001c4 (00150603): lb      a2, 1(a0)
+S	216	0	DEC
+I	217	6	0
+L	217	0	[08577]800001c8 (00158683): lb      a3, 1(a1)
+S	217	0	DEC
+I	218	6	0
+L	218	0	[08577]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	218	0	DEC
+C	1
+S	212	0	LD
+S	210	0	LD
+S	209	0	EX
+L	209	1	opA=80000358 
+L	209	1	opB=00000004 
+L	209	1	imm=00000004 
+S	204	0	WFC
+L	204	1	res=00000000
+S	190	0	COM
+R	190	21	0
+S	191	0	COM
+R	191	22	0
+S	192	0	COM
+R	192	23	0
+S	193	0	COM
+R	193	24	0
+S	215	0	IS
+S	216	0	RN
+S	217	0	RN
+S	218	0	RN
+I	219	7	0
+L	219	0	[08579]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	219	0	DEC
+C	1
+S	207	0	LD
+S	213	0	LD
+S	212	0	EX
+L	212	1	opA=80000358 
+L	212	1	opB=00000000 
+L	212	1	imm=00000000 
+S	210	0	EX
+L	210	1	opA=80000364 
+L	210	1	opB=00000004 
+L	210	1	imm=00000004 
+S	205	0	WFC
+L	205	1	res=00000000
+S	194	0	COM
+R	194	25	0
+S	195	0	COM
+R	195	26	0
+S	196	0	COM
+R	196	27	0
+S	197	0	COM
+R	197	28	0
+S	216	0	IS
+S	217	0	IS
+S	218	0	IS
+S	219	0	RN
+I	220	8	0
+L	220	0	[08581]800001d2 (00250603): lb      a2, 2(a0)
+S	220	0	DEC
+I	221	8	0
+L	221	0	[08581]800001d6 (00258683): lb      a3, 2(a1)
+S	221	0	DEC
+I	222	8	0
+L	222	0	[08581]800001da (00d61763): bne     a2, a3, pc + 14
+S	222	0	DEC
+C	1
+S	206	0	LD
+S	207	0	EX
+L	207	1	opA=69727453 
+L	207	1	opB=00000287 
+L	207	1	imm=00000287 
+S	213	0	EX
+L	213	1	opA=80000364 
+L	213	1	opB=00000000 
+L	213	1	imm=00000000 
+S	209	0	WFC
+L	209	1	res=00000000
+S	198	0	COM
+R	198	29	0
+S	199	0	COM
+R	199	30	0
+S	200	0	COM
+R	200	31	0
+S	201	0	COM
+R	201	32	0
+S	219	0	IS
+S	220	0	RN
+S	221	0	RN
+S	222	0	RN
+I	223	9	0
+L	223	0	[08583]800001de (0000c609): c.beqz  a2, pc + 10
+S	223	0	DEC
+C	1
+S	208	0	LD
+S	216	0	LD
+S	217	0	LD
+S	206	0	EX
+L	206	1	opA=69727453 
+L	206	1	opB=69727453 
+L	206	1	imm=00000022 
+S	207	0	WFC
+L	207	1	res=00000000
+S	210	0	WFC
+L	210	1	res=00000000
+S	212	0	WFC
+L	212	1	res=00000000
+S	202	0	COM
+R	202	33	0
+S	203	0	COM
+R	203	34	0
+S	204	0	COM
+R	204	35	0
+S	205	0	COM
+R	205	36	0
+S	220	0	IS
+S	221	0	IS
+S	222	0	IS
+S	223	0	RN
+I	224	10	0
+L	224	0	[08585]800001e0 (00350603): lb      a2, 3(a0)
+S	224	0	DEC
+I	225	10	0
+L	225	0	[08585]800001e4 (00358683): lb      a3, 3(a1)
+S	225	0	DEC
+I	226	10	0
+L	226	0	[08585]800001e8 (40d60533): sub     a0, a2, a3
+S	226	0	DEC
+I	227	10	0
+L	227	0	[08585]800001ec (00008082): ret
+S	227	0	DEC
+C	1
+S	211	0	LD
+S	215	0	LD
+S	208	0	EX
+L	208	1	opA=ffffffff 
+L	208	1	opB=ffffffff 
+L	208	1	imm=0000001a 
+S	216	0	EX
+L	216	1	opA=80000358 
+L	216	1	opB=00000001 
+L	216	1	imm=00000001 
+S	217	0	EX
+L	217	1	opA=80000364 
+L	217	1	opB=00000001 
+L	217	1	imm=00000001 
+S	206	0	WFC
+L	206	1	res=00000000
+S	213	0	WFC
+L	213	1	res=00000000
+S	223	0	IS
+S	224	0	RN
+S	225	0	RN
+S	226	0	RN
+S	227	0	RN
+I	228	11	0
+L	228	0	[08587]80000314 (0000147d): c.addi  s0, -1
+S	228	0	DEC
+I	229	11	0
+L	229	0	[08587]80000316 (0000f475): c.bnez  s0, pc - 20
+S	229	0	DEC
+C	1
+S	214	0	LD
+S	220	0	LD
+S	221	0	LD
+S	211	0	EX
+L	211	1	opA=4120676e 
+L	211	1	opB=4220676e 
+L	211	1	imm=00000012 
+S	215	0	EX
+L	215	1	opA=00000053 
+L	215	1	opB=00000000 
+L	215	1	imm=00000026 
+S	208	0	WFC
+L	208	1	res=00000000
+S	224	0	IS
+S	225	0	IS
+S	226	0	IS
+S	227	0	IS
+S	228	0	RN
+S	229	0	RN
+I	230	12	0
+L	230	0	[08589]80000302 (00000517): auipc   a0, 0x0
+S	230	0	DEC
+I	231	12	0
+L	231	0	[08589]80000306 (05650513): addi    a0, a0, 86
+S	231	0	DEC
+I	232	12	0
+L	232	0	[08589]8000030a (00000597): auipc   a1, 0x0
+S	232	0	DEC
+C	1
+S	214	0	EX
+L	214	1	opA=00000053 
+L	214	1	opB=00000053 
+L	214	1	imm=0000002a 
+S	220	0	EX
+L	220	1	opA=80000358 
+L	220	1	opB=00000002 
+L	220	1	imm=00000002 
+S	221	0	EX
+L	221	1	opA=80000364 
+L	221	1	opB=00000002 
+L	221	1	imm=00000002 
+S	211	0	WFC
+L	211	1	res=00000000
+S	215	0	WFC
+L	215	1	res=00000000
+S	216	0	WFC
+L	216	1	res=00000000
+S	217	0	WFC
+L	217	1	res=00000000
+S	206	0	COM
+R	206	37	0
+S	207	0	COM
+R	207	38	0
+S	228	0	IS
+S	229	0	IS
+S	230	0	RN
+S	231	0	RN
+S	232	0	RN
+I	233	13	0
+L	233	0	[08591]8000030e (05a58593): addi    a1, a1, 90
+S	233	0	DEC
+I	234	13	0
+L	234	0	[08591]80000312 (000035bd): c.jal   pc - 402
+S	234	0	DEC
+C	1
+S	219	0	LD
+S	218	0	LD
+S	224	0	LD
+S	225	0	LD
+S	214	0	WFC
+L	214	1	res=00000000
+S	208	0	COM
+R	208	39	0
+S	209	0	COM
+R	209	40	0
+S	210	0	COM
+R	210	41	0
+S	230	0	IS
+S	231	0	IS
+S	232	0	IS
+S	233	0	RN
+S	234	0	RN
+I	235	14	0
+L	235	0	[08593]80000180 (0000577d): c.li    a4, -1
+S	235	0	DEC
+I	236	14	0
+L	236	0	[08593]80000182 (00000001): c.nop
+S	236	0	DEC
+I	237	14	0
+L	237	0	[08593]80000184 (00000013): nop
+S	237	0	DEC
+I	238	14	0
+L	238	0	[08593]80000188 (00000013): nop
+S	238	0	DEC
+C	1
+S	227	0	LD
+S	228	0	LD
+S	219	0	EX
+L	219	1	opA=00000074 
+L	219	1	opB=00000000 
+L	219	1	imm=00000018 
+S	218	0	EX
+L	218	1	opA=00000074 
+L	218	1	opB=00000074 
+L	218	1	imm=0000001c 
+S	224	0	EX
+L	224	1	opA=80000358 
+L	224	1	opB=00000003 
+L	224	1	imm=00000003 
+S	225	0	EX
+L	225	1	opA=80000364 
+L	225	1	opB=00000003 
+L	225	1	imm=00000003 
+S	220	0	WFC
+L	220	1	res=00000000
+S	221	0	WFC
+L	221	1	res=00000000
+S	211	0	COM
+R	211	42	0
+S	212	0	COM
+R	212	43	0
+S	213	0	COM
+R	213	44	0
+S	233	0	IS
+S	234	0	IS
+S	235	0	RN
+S	236	0	RN
+S	237	0	RN
+S	238	0	RN
+I	239	14	0
+L	239	0	[08595]8000018c (00000013): nop
+S	239	0	DEC
+I	240	15	0
+L	240	0	[08595]80000190 (00004110): c.lw    a2, 0(a0)
+S	240	0	DEC
+I	241	15	0
+L	241	0	[08595]80000192 (00004194): c.lw    a3, 0(a1)
+S	241	0	DEC
+I	242	15	0
+L	242	0	[08595]80000194 (02d61163): bne     a2, a3, pc + 34
+S	242	0	DEC
+C	1
+S	222	0	LD
+S	223	0	LD
+S	227	0	EX
+L	227	1	opA=80000314 
+L	227	1	opB=80000314 
+L	227	1	imm=00000000 
+S	228	0	EX
+L	228	1	opA=00000006 
+L	228	1	opB=ffffffff 
+L	228	1	imm=ffffffff 
+S	219	0	WFC
+L	219	1	res=00000000
+S	218	0	WFC
+L	218	1	res=00000000
+S	214	0	COM
+R	214	45	0
+S	235	0	WFC
+S	236	0	WFC
+S	237	0	WFC
+S	238	0	WFC
+S	239	0	RN
+S	240	0	RN
+S	241	0	RN
+S	242	0	RN
+I	243	16	0
+L	243	0	[08597]80000198 (28765613): orc.b   a2, a2
+S	243	0	DEC
+I	244	16	0
+L	244	0	[08597]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	244	0	DEC
+C	1
+S	229	0	LD
+S	230	0	LD
+S	222	0	EX
+L	222	1	opA=00000072 
+L	222	1	opB=00000072 
+L	222	1	imm=0000000e 
+S	223	0	EX
+L	223	1	opA=00000072 
+L	223	1	opB=00000000 
+L	223	1	imm=0000000a 
+S	227	0	WFC
+L	227	1	res=00000000
+S	228	0	WFC
+L	228	1	res=00000000
+S	224	0	WFC
+L	224	1	res=00000000
+S	225	0	WFC
+L	225	1	res=00000000
+S	215	0	COM
+R	215	46	0
+S	216	0	COM
+R	216	47	0
+S	217	0	COM
+R	217	48	0
+S	239	0	WFC
+S	240	0	IS
+S	241	0	IS
+S	242	0	IS
+S	243	0	RN
+S	244	0	RN
+I	245	17	0
+L	245	0	[08599]800001a0 (00004150): c.lw    a2, 4(a0)
+S	245	0	DEC
+I	246	17	0
+L	246	0	[08599]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	246	0	DEC
+I	247	17	0
+L	247	0	[08599]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	247	0	DEC
+C	1
+S	232	0	LD
+S	226	0	LD
+S	231	0	LD
+S	229	0	EX
+L	229	1	opA=00000005 
+L	229	1	opB=00000000 
+L	229	1	imm=ffffffec 
+S	230	0	EX
+L	230	1	opA=00000000 
+L	230	1	opB=00000000 
+L	230	1	imm=00000000 
+S	222	0	WFC
+L	222	1	res=00000000
+S	223	0	WFC
+L	223	1	res=00000000
+S	218	0	COM
+R	218	49	0
+S	243	0	IS
+S	244	0	IS
+S	245	0	RN
+S	246	0	RN
+S	247	0	RN
+I	248	18	0
+L	248	0	[08601]800001b6 (00050603): lb      a2, 0(a0)
+S	248	0	DEC
+I	249	18	0
+L	249	0	[08601]800001ba (00058683): lb      a3, 0(a1)
+S	249	0	DEC
+C	1
+S	234	0	LD
+S	233	0	LD
+S	240	0	LD
+S	232	0	EX
+L	232	1	opA=00000000 
+L	232	1	opB=00000000 
+L	232	1	imm=00000000 
+S	226	0	EX
+L	226	1	opA=00000069 
+L	226	1	opB=00000069 
+L	226	1	imm=00000000 
+S	231	0	EX
+L	231	1	opA=80000302 
+L	231	1	opB=00000056 
+L	231	1	imm=00000056 
+S	229	0	WFC
+L	229	1	res=00000000
+S	230	0	WFC
+L	230	1	res=00000000
+S	219	0	COM
+R	219	50	0
+S	220	0	COM
+R	220	51	0
+S	221	0	COM
+R	221	52	0
+S	245	0	IS
+S	246	0	IS
+S	247	0	IS
+S	248	0	RN
+S	249	0	RN
+I	250	19	0
+L	250	0	[08603]800001be (02d61563): bne     a2, a3, pc + 42
+S	250	0	DEC
+C	1
+S	241	0	LD
+S	234	0	EX
+L	234	1	opA=00000000 
+L	234	1	opB=fffffe6e 
+L	234	1	imm=fffffe6e 
+S	233	0	EX
+L	233	1	opA=8000030a 
+L	233	1	opB=0000005a 
+L	233	1	imm=0000005a 
+S	240	0	EX
+L	240	1	opA=80000358 
+L	240	1	opB=00000000 
+L	240	1	imm=00000000 
+S	232	0	WFC
+L	232	1	res=00000000
+S	226	0	WFC
+L	226	1	res=00000000
+S	231	0	WFC
+L	231	1	res=00000000
+S	222	0	COM
+R	222	53	0
+S	248	0	IS
+S	249	0	IS
+S	250	0	RN
+I	251	20	0
+L	251	0	[08605]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	251	0	DEC
+C	1
+S	245	0	LD
+S	241	0	EX
+L	241	1	opA=80000364 
+L	241	1	opB=00000000 
+L	241	1	imm=00000000 
+S	234	0	WFC
+L	234	1	res=00000000
+S	233	0	WFC
+L	233	1	res=00000000
+S	223	0	COM
+R	223	54	0
+S	224	0	COM
+R	224	55	0
+S	225	0	COM
+R	225	56	0
+S	250	0	IS
+S	251	0	RN
+I	252	21	0
+L	252	0	[08607]800001c4 (00150603): lb      a2, 1(a0)
+S	252	0	DEC
+I	253	21	0
+L	253	0	[08607]800001c8 (00158683): lb      a3, 1(a1)
+S	253	0	DEC
+I	254	21	0
+L	254	0	[08607]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	254	0	DEC
+C	1
+S	248	0	LD
+S	246	0	LD
+S	245	0	EX
+L	245	1	opA=80000358 
+L	245	1	opB=00000004 
+L	245	1	imm=00000004 
+S	240	0	WFC
+L	240	1	res=00000000
+S	226	0	COM
+R	226	57	0
+S	227	0	COM
+R	227	58	0
+S	228	0	COM
+R	228	59	0
+S	229	0	COM
+R	229	60	0
+S	251	0	IS
+S	252	0	RN
+S	253	0	RN
+S	254	0	RN
+I	255	22	0
+L	255	0	[08609]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	255	0	DEC
+C	1
+S	243	0	LD
+S	249	0	LD
+S	248	0	EX
+L	248	1	opA=80000358 
+L	248	1	opB=00000000 
+L	248	1	imm=00000000 
+S	246	0	EX
+L	246	1	opA=80000364 
+L	246	1	opB=00000004 
+L	246	1	imm=00000004 
+S	241	0	WFC
+L	241	1	res=00000000
+S	230	0	COM
+R	230	61	0
+S	231	0	COM
+R	231	62	0
+S	232	0	COM
+R	232	63	0
+S	233	0	COM
+R	233	64	0
+S	252	0	IS
+S	253	0	IS
+S	254	0	IS
+S	255	0	RN
+I	256	23	0
+L	256	0	[08611]800001d2 (00250603): lb      a2, 2(a0)
+S	256	0	DEC
+I	257	23	0
+L	257	0	[08611]800001d6 (00258683): lb      a3, 2(a1)
+S	257	0	DEC
+I	258	23	0
+L	258	0	[08611]800001da (00d61763): bne     a2, a3, pc + 14
+S	258	0	DEC
+C	1
+S	242	0	LD
+S	243	0	EX
+L	243	1	opA=69727453 
+L	243	1	opB=00000287 
+L	243	1	imm=00000287 
+S	249	0	EX
+L	249	1	opA=80000364 
+L	249	1	opB=00000000 
+L	249	1	imm=00000000 
+S	245	0	WFC
+L	245	1	res=00000000
+S	234	0	COM
+R	234	65	0
+S	235	0	COM
+R	235	66	0
+S	236	0	COM
+R	236	67	0
+S	237	0	COM
+R	237	68	0
+S	255	0	IS
+S	256	0	RN
+S	257	0	RN
+S	258	0	RN
+I	259	24	0
+L	259	0	[08613]800001de (0000c609): c.beqz  a2, pc + 10
+S	259	0	DEC
+C	1
+S	244	0	LD
+S	252	0	LD
+S	253	0	LD
+S	242	0	EX
+L	242	1	opA=69727453 
+L	242	1	opB=69727453 
+L	242	1	imm=00000022 
+S	243	0	WFC
+L	243	1	res=00000000
+S	248	0	WFC
+L	248	1	res=00000000
+S	246	0	WFC
+L	246	1	res=00000000
+S	238	0	COM
+R	238	69	0
+S	239	0	COM
+R	239	70	0
+S	240	0	COM
+R	240	71	0
+S	241	0	COM
+R	241	72	0
+S	256	0	IS
+S	257	0	IS
+S	258	0	IS
+S	259	0	RN
+I	260	25	0
+L	260	0	[08615]800001e0 (00350603): lb      a2, 3(a0)
+S	260	0	DEC
+I	261	25	0
+L	261	0	[08615]800001e4 (00358683): lb      a3, 3(a1)
+S	261	0	DEC
+I	262	25	0
+L	262	0	[08615]800001e8 (40d60533): sub     a0, a2, a3
+S	262	0	DEC
+I	263	25	0
+L	263	0	[08615]800001ec (00008082): ret
+S	263	0	DEC
+C	1
+S	247	0	LD
+S	251	0	LD
+S	244	0	EX
+L	244	1	opA=ffffffff 
+L	244	1	opB=ffffffff 
+L	244	1	imm=0000001a 
+S	252	0	EX
+L	252	1	opA=80000358 
+L	252	1	opB=00000001 
+L	252	1	imm=00000001 
+S	253	0	EX
+L	253	1	opA=80000364 
+L	253	1	opB=00000001 
+L	253	1	imm=00000001 
+S	242	0	WFC
+L	242	1	res=00000000
+S	249	0	WFC
+L	249	1	res=00000000
+S	259	0	IS
+S	260	0	RN
+S	261	0	RN
+S	262	0	RN
+S	263	0	RN
+I	264	26	0
+L	264	0	[08617]80000314 (0000147d): c.addi  s0, -1
+S	264	0	DEC
+I	265	26	0
+L	265	0	[08617]80000316 (0000f475): c.bnez  s0, pc - 20
+S	265	0	DEC
+C	1
+S	250	0	LD
+S	256	0	LD
+S	257	0	LD
+S	247	0	EX
+L	247	1	opA=4120676e 
+L	247	1	opB=4220676e 
+L	247	1	imm=00000012 
+S	251	0	EX
+L	251	1	opA=00000053 
+L	251	1	opB=00000000 
+L	251	1	imm=00000026 
+S	244	0	WFC
+L	244	1	res=00000000
+S	260	0	IS
+S	261	0	IS
+S	262	0	IS
+S	263	0	IS
+S	264	0	RN
+S	265	0	RN
+I	266	27	0
+L	266	0	[08619]80000302 (00000517): auipc   a0, 0x0
+S	266	0	DEC
+I	267	27	0
+L	267	0	[08619]80000306 (05650513): addi    a0, a0, 86
+S	267	0	DEC
+I	268	27	0
+L	268	0	[08619]8000030a (00000597): auipc   a1, 0x0
+S	268	0	DEC
+C	1
+S	250	0	EX
+L	250	1	opA=00000053 
+L	250	1	opB=00000053 
+L	250	1	imm=0000002a 
+S	256	0	EX
+L	256	1	opA=80000358 
+L	256	1	opB=00000002 
+L	256	1	imm=00000002 
+S	257	0	EX
+L	257	1	opA=80000364 
+L	257	1	opB=00000002 
+L	257	1	imm=00000002 
+S	247	0	WFC
+L	247	1	res=00000000
+S	251	0	WFC
+L	251	1	res=00000000
+S	253	0	WFC
+L	253	1	res=00000000
+S	252	0	WFC
+L	252	1	res=00000000
+S	242	0	COM
+R	242	73	0
+S	243	0	COM
+R	243	74	0
+S	264	0	IS
+S	265	0	IS
+S	266	0	RN
+S	267	0	RN
+S	268	0	RN
+I	269	28	0
+L	269	0	[08621]8000030e (05a58593): addi    a1, a1, 90
+S	269	0	DEC
+I	270	28	0
+L	270	0	[08621]80000312 (000035bd): c.jal   pc - 402
+S	270	0	DEC
+C	1
+S	255	0	LD
+S	254	0	LD
+S	260	0	LD
+S	261	0	LD
+S	250	0	WFC
+L	250	1	res=00000000
+S	244	0	COM
+R	244	75	0
+S	245	0	COM
+R	245	76	0
+S	246	0	COM
+R	246	77	0
+S	266	0	IS
+S	267	0	IS
+S	268	0	IS
+S	269	0	RN
+S	270	0	RN
+I	271	29	0
+L	271	0	[08623]80000180 (0000577d): c.li    a4, -1
+S	271	0	DEC
+I	272	29	0
+L	272	0	[08623]80000182 (00000001): c.nop
+S	272	0	DEC
+I	273	29	0
+L	273	0	[08623]80000184 (00000013): nop
+S	273	0	DEC
+I	274	29	0
+L	274	0	[08623]80000188 (00000013): nop
+S	274	0	DEC
+C	1
+S	263	0	LD
+S	264	0	LD
+S	255	0	EX
+L	255	1	opA=00000074 
+L	255	1	opB=00000000 
+L	255	1	imm=00000018 
+S	254	0	EX
+L	254	1	opA=00000074 
+L	254	1	opB=00000074 
+L	254	1	imm=0000001c 
+S	260	0	EX
+L	260	1	opA=80000358 
+L	260	1	opB=00000003 
+L	260	1	imm=00000003 
+S	261	0	EX
+L	261	1	opA=80000364 
+L	261	1	opB=00000003 
+L	261	1	imm=00000003 
+S	257	0	WFC
+L	257	1	res=00000000
+S	256	0	WFC
+L	256	1	res=00000000
+S	247	0	COM
+R	247	78	0
+S	248	0	COM
+R	248	79	0
+S	249	0	COM
+R	249	80	0
+S	269	0	IS
+S	270	0	IS
+S	271	0	RN
+S	272	0	RN
+S	273	0	RN
+S	274	0	RN
+I	275	29	0
+L	275	0	[08625]8000018c (00000013): nop
+S	275	0	DEC
+I	276	30	0
+L	276	0	[08625]80000190 (00004110): c.lw    a2, 0(a0)
+S	276	0	DEC
+I	277	30	0
+L	277	0	[08625]80000192 (00004194): c.lw    a3, 0(a1)
+S	277	0	DEC
+I	278	30	0
+L	278	0	[08625]80000194 (02d61163): bne     a2, a3, pc + 34
+S	278	0	DEC
+C	1
+S	258	0	LD
+S	259	0	LD
+S	263	0	EX
+L	263	1	opA=80000314 
+L	263	1	opB=80000314 
+L	263	1	imm=00000000 
+S	264	0	EX
+L	264	1	opA=00000005 
+L	264	1	opB=ffffffff 
+L	264	1	imm=ffffffff 
+S	255	0	WFC
+L	255	1	res=00000000
+S	254	0	WFC
+L	254	1	res=00000000
+S	250	0	COM
+R	250	81	0
+S	271	0	WFC
+S	272	0	WFC
+S	273	0	WFC
+S	274	0	WFC
+S	275	0	RN
+S	276	0	RN
+S	277	0	RN
+S	278	0	RN
+I	279	31	0
+L	279	0	[08627]80000198 (28765613): orc.b   a2, a2
+S	279	0	DEC
+I	280	31	0
+L	280	0	[08627]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	280	0	DEC
+C	1
+S	265	0	LD
+S	266	0	LD
+S	258	0	EX
+L	258	1	opA=00000072 
+L	258	1	opB=00000072 
+L	258	1	imm=0000000e 
+S	259	0	EX
+L	259	1	opA=00000072 
+L	259	1	opB=00000000 
+L	259	1	imm=0000000a 
+S	263	0	WFC
+L	263	1	res=00000000
+S	264	0	WFC
+L	264	1	res=00000000
+S	261	0	WFC
+L	261	1	res=00000000
+S	260	0	WFC
+L	260	1	res=00000000
+S	251	0	COM
+R	251	82	0
+S	252	0	COM
+R	252	83	0
+S	253	0	COM
+R	253	84	0
+S	275	0	WFC
+S	276	0	IS
+S	277	0	IS
+S	278	0	IS
+S	279	0	RN
+S	280	0	RN
+I	281	0	0
+L	281	0	[08629]800001a0 (00004150): c.lw    a2, 4(a0)
+S	281	0	DEC
+I	282	0	0
+L	282	0	[08629]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	282	0	DEC
+I	283	0	0
+L	283	0	[08629]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	283	0	DEC
+C	1
+S	268	0	LD
+S	262	0	LD
+S	267	0	LD
+S	265	0	EX
+L	265	1	opA=00000004 
+L	265	1	opB=00000000 
+L	265	1	imm=ffffffec 
+S	266	0	EX
+L	266	1	opA=00000000 
+L	266	1	opB=00000000 
+L	266	1	imm=00000000 
+S	258	0	WFC
+L	258	1	res=00000000
+S	259	0	WFC
+L	259	1	res=00000000
+S	254	0	COM
+R	254	85	0
+S	279	0	IS
+S	280	0	IS
+S	281	0	RN
+S	282	0	RN
+S	283	0	RN
+I	284	1	0
+L	284	0	[08631]800001b6 (00050603): lb      a2, 0(a0)
+S	284	0	DEC
+I	285	1	0
+L	285	0	[08631]800001ba (00058683): lb      a3, 0(a1)
+S	285	0	DEC
+C	1
+S	270	0	LD
+S	269	0	LD
+S	276	0	LD
+S	268	0	EX
+L	268	1	opA=00000000 
+L	268	1	opB=00000000 
+L	268	1	imm=00000000 
+S	262	0	EX
+L	262	1	opA=00000069 
+L	262	1	opB=00000069 
+L	262	1	imm=00000000 
+S	267	0	EX
+L	267	1	opA=80000302 
+L	267	1	opB=00000056 
+L	267	1	imm=00000056 
+S	265	0	WFC
+L	265	1	res=00000000
+S	266	0	WFC
+L	266	1	res=00000000
+S	255	0	COM
+R	255	86	0
+S	256	0	COM
+R	256	87	0
+S	257	0	COM
+R	257	88	0
+S	281	0	IS
+S	282	0	IS
+S	283	0	IS
+S	284	0	RN
+S	285	0	RN
+I	286	2	0
+L	286	0	[08633]800001be (02d61563): bne     a2, a3, pc + 42
+S	286	0	DEC
+C	1
+S	277	0	LD
+S	270	0	EX
+L	270	1	opA=00000000 
+L	270	1	opB=fffffe6e 
+L	270	1	imm=fffffe6e 
+S	269	0	EX
+L	269	1	opA=8000030a 
+L	269	1	opB=0000005a 
+L	269	1	imm=0000005a 
+S	276	0	EX
+L	276	1	opA=80000358 
+L	276	1	opB=00000000 
+L	276	1	imm=00000000 
+S	268	0	WFC
+L	268	1	res=00000000
+S	262	0	WFC
+L	262	1	res=00000000
+S	267	0	WFC
+L	267	1	res=00000000
+S	258	0	COM
+R	258	89	0
+S	284	0	IS
+S	285	0	IS
+S	286	0	RN
+I	287	3	0
+L	287	0	[08635]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	287	0	DEC
+C	1
+S	281	0	LD
+S	277	0	EX
+L	277	1	opA=80000364 
+L	277	1	opB=00000000 
+L	277	1	imm=00000000 
+S	270	0	WFC
+L	270	1	res=00000000
+S	269	0	WFC
+L	269	1	res=00000000
+S	259	0	COM
+R	259	90	0
+S	260	0	COM
+R	260	91	0
+S	261	0	COM
+R	261	92	0
+S	286	0	IS
+S	287	0	RN
+I	288	4	0
+L	288	0	[08637]800001c4 (00150603): lb      a2, 1(a0)
+S	288	0	DEC
+I	289	4	0
+L	289	0	[08637]800001c8 (00158683): lb      a3, 1(a1)
+S	289	0	DEC
+I	290	4	0
+L	290	0	[08637]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	290	0	DEC
+C	1
+S	284	0	LD
+S	282	0	LD
+S	281	0	EX
+L	281	1	opA=80000358 
+L	281	1	opB=00000004 
+L	281	1	imm=00000004 
+S	276	0	WFC
+L	276	1	res=00000000
+S	262	0	COM
+R	262	93	0
+S	263	0	COM
+R	263	94	0
+S	264	0	COM
+R	264	95	0
+S	265	0	COM
+R	265	96	0
+S	287	0	IS
+S	288	0	RN
+S	289	0	RN
+S	290	0	RN
+I	291	5	0
+L	291	0	[08639]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	291	0	DEC
+C	1
+S	279	0	LD
+S	285	0	LD
+S	284	0	EX
+L	284	1	opA=80000358 
+L	284	1	opB=00000000 
+L	284	1	imm=00000000 
+S	282	0	EX
+L	282	1	opA=80000364 
+L	282	1	opB=00000004 
+L	282	1	imm=00000004 
+S	277	0	WFC
+L	277	1	res=00000000
+S	266	0	COM
+R	266	97	0
+S	267	0	COM
+R	267	98	0
+S	268	0	COM
+R	268	99	0
+S	269	0	COM
+R	269	100	0
+S	288	0	IS
+S	289	0	IS
+S	290	0	IS
+S	291	0	RN
+I	292	6	0
+L	292	0	[08641]800001d2 (00250603): lb      a2, 2(a0)
+S	292	0	DEC
+I	293	6	0
+L	293	0	[08641]800001d6 (00258683): lb      a3, 2(a1)
+S	293	0	DEC
+I	294	6	0
+L	294	0	[08641]800001da (00d61763): bne     a2, a3, pc + 14
+S	294	0	DEC
+C	1
+S	278	0	LD
+S	279	0	EX
+L	279	1	opA=69727453 
+L	279	1	opB=00000287 
+L	279	1	imm=00000287 
+S	285	0	EX
+L	285	1	opA=80000364 
+L	285	1	opB=00000000 
+L	285	1	imm=00000000 
+S	281	0	WFC
+L	281	1	res=00000000
+S	270	0	COM
+R	270	101	0
+S	271	0	COM
+R	271	102	0
+S	272	0	COM
+R	272	103	0
+S	273	0	COM
+R	273	104	0
+S	291	0	IS
+S	292	0	RN
+S	293	0	RN
+S	294	0	RN
+I	295	7	0
+L	295	0	[08643]800001de (0000c609): c.beqz  a2, pc + 10
+S	295	0	DEC
+C	1
+S	280	0	LD
+S	288	0	LD
+S	289	0	LD
+S	278	0	EX
+L	278	1	opA=69727453 
+L	278	1	opB=69727453 
+L	278	1	imm=00000022 
+S	279	0	WFC
+L	279	1	res=00000000
+S	282	0	WFC
+L	282	1	res=00000000
+S	284	0	WFC
+L	284	1	res=00000000
+S	274	0	COM
+R	274	105	0
+S	275	0	COM
+R	275	106	0
+S	276	0	COM
+R	276	107	0
+S	277	0	COM
+R	277	108	0
+S	292	0	IS
+S	293	0	IS
+S	294	0	IS
+S	295	0	RN
+I	296	8	0
+L	296	0	[08645]800001e0 (00350603): lb      a2, 3(a0)
+S	296	0	DEC
+I	297	8	0
+L	297	0	[08645]800001e4 (00358683): lb      a3, 3(a1)
+S	297	0	DEC
+I	298	8	0
+L	298	0	[08645]800001e8 (40d60533): sub     a0, a2, a3
+S	298	0	DEC
+I	299	8	0
+L	299	0	[08645]800001ec (00008082): ret
+S	299	0	DEC
+C	1
+S	283	0	LD
+S	287	0	LD
+S	280	0	EX
+L	280	1	opA=ffffffff 
+L	280	1	opB=ffffffff 
+L	280	1	imm=0000001a 
+S	288	0	EX
+L	288	1	opA=80000358 
+L	288	1	opB=00000001 
+L	288	1	imm=00000001 
+S	289	0	EX
+L	289	1	opA=80000364 
+L	289	1	opB=00000001 
+L	289	1	imm=00000001 
+S	278	0	WFC
+L	278	1	res=00000000
+S	285	0	WFC
+L	285	1	res=00000000
+S	295	0	IS
+S	296	0	RN
+S	297	0	RN
+S	298	0	RN
+S	299	0	RN
+I	300	9	0
+L	300	0	[08647]80000314 (0000147d): c.addi  s0, -1
+S	300	0	DEC
+I	301	9	0
+L	301	0	[08647]80000316 (0000f475): c.bnez  s0, pc - 20
+S	301	0	DEC
+C	1
+S	286	0	LD
+S	292	0	LD
+S	293	0	LD
+S	283	0	EX
+L	283	1	opA=4120676e 
+L	283	1	opB=4220676e 
+L	283	1	imm=00000012 
+S	287	0	EX
+L	287	1	opA=00000053 
+L	287	1	opB=00000000 
+L	287	1	imm=00000026 
+S	280	0	WFC
+L	280	1	res=00000000
+S	296	0	IS
+S	297	0	IS
+S	298	0	IS
+S	299	0	IS
+S	300	0	RN
+S	301	0	RN
+I	302	10	0
+L	302	0	[08649]80000302 (00000517): auipc   a0, 0x0
+S	302	0	DEC
+I	303	10	0
+L	303	0	[08649]80000306 (05650513): addi    a0, a0, 86
+S	303	0	DEC
+I	304	10	0
+L	304	0	[08649]8000030a (00000597): auipc   a1, 0x0
+S	304	0	DEC
+C	1
+S	286	0	EX
+L	286	1	opA=00000053 
+L	286	1	opB=00000053 
+L	286	1	imm=0000002a 
+S	292	0	EX
+L	292	1	opA=80000358 
+L	292	1	opB=00000002 
+L	292	1	imm=00000002 
+S	293	0	EX
+L	293	1	opA=80000364 
+L	293	1	opB=00000002 
+L	293	1	imm=00000002 
+S	283	0	WFC
+L	283	1	res=00000000
+S	287	0	WFC
+L	287	1	res=00000000
+S	288	0	WFC
+L	288	1	res=00000000
+S	289	0	WFC
+L	289	1	res=00000000
+S	278	0	COM
+R	278	109	0
+S	279	0	COM
+R	279	110	0
+S	300	0	IS
+S	301	0	IS
+S	302	0	RN
+S	303	0	RN
+S	304	0	RN
+I	305	11	0
+L	305	0	[08651]8000030e (05a58593): addi    a1, a1, 90
+S	305	0	DEC
+I	306	11	0
+L	306	0	[08651]80000312 (000035bd): c.jal   pc - 402
+S	306	0	DEC
+C	1
+S	291	0	LD
+S	290	0	LD
+S	296	0	LD
+S	297	0	LD
+S	286	0	WFC
+L	286	1	res=00000000
+S	280	0	COM
+R	280	111	0
+S	281	0	COM
+R	281	112	0
+S	282	0	COM
+R	282	113	0
+S	302	0	IS
+S	303	0	IS
+S	304	0	IS
+S	305	0	RN
+S	306	0	RN
+I	307	12	0
+L	307	0	[08653]80000180 (0000577d): c.li    a4, -1
+S	307	0	DEC
+I	308	12	0
+L	308	0	[08653]80000182 (00000001): c.nop
+S	308	0	DEC
+I	309	12	0
+L	309	0	[08653]80000184 (00000013): nop
+S	309	0	DEC
+I	310	12	0
+L	310	0	[08653]80000188 (00000013): nop
+S	310	0	DEC
+C	1
+S	299	0	LD
+S	300	0	LD
+S	291	0	EX
+L	291	1	opA=00000074 
+L	291	1	opB=00000000 
+L	291	1	imm=00000018 
+S	290	0	EX
+L	290	1	opA=00000074 
+L	290	1	opB=00000074 
+L	290	1	imm=0000001c 
+S	296	0	EX
+L	296	1	opA=80000358 
+L	296	1	opB=00000003 
+L	296	1	imm=00000003 
+S	297	0	EX
+L	297	1	opA=80000364 
+L	297	1	opB=00000003 
+L	297	1	imm=00000003 
+S	292	0	WFC
+L	292	1	res=00000000
+S	293	0	WFC
+L	293	1	res=00000000
+S	283	0	COM
+R	283	114	0
+S	284	0	COM
+R	284	115	0
+S	285	0	COM
+R	285	116	0
+S	305	0	IS
+S	306	0	IS
+S	307	0	RN
+S	308	0	RN
+S	309	0	RN
+S	310	0	RN
+I	311	12	0
+L	311	0	[08655]8000018c (00000013): nop
+S	311	0	DEC
+I	312	13	0
+L	312	0	[08655]80000190 (00004110): c.lw    a2, 0(a0)
+S	312	0	DEC
+I	313	13	0
+L	313	0	[08655]80000192 (00004194): c.lw    a3, 0(a1)
+S	313	0	DEC
+I	314	13	0
+L	314	0	[08655]80000194 (02d61163): bne     a2, a3, pc + 34
+S	314	0	DEC
+C	1
+S	294	0	LD
+S	295	0	LD
+S	299	0	EX
+L	299	1	opA=80000314 
+L	299	1	opB=80000314 
+L	299	1	imm=00000000 
+S	300	0	EX
+L	300	1	opA=00000004 
+L	300	1	opB=ffffffff 
+L	300	1	imm=ffffffff 
+S	291	0	WFC
+L	291	1	res=00000000
+S	290	0	WFC
+L	290	1	res=00000000
+S	286	0	COM
+R	286	117	0
+S	307	0	WFC
+S	308	0	WFC
+S	309	0	WFC
+S	310	0	WFC
+S	311	0	RN
+S	312	0	RN
+S	313	0	RN
+S	314	0	RN
+I	315	14	0
+L	315	0	[08657]80000198 (28765613): orc.b   a2, a2
+S	315	0	DEC
+I	316	14	0
+L	316	0	[08657]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	316	0	DEC
+C	1
+S	301	0	LD
+S	302	0	LD
+S	294	0	EX
+L	294	1	opA=00000072 
+L	294	1	opB=00000072 
+L	294	1	imm=0000000e 
+S	295	0	EX
+L	295	1	opA=00000072 
+L	295	1	opB=00000000 
+L	295	1	imm=0000000a 
+S	299	0	WFC
+L	299	1	res=00000000
+S	300	0	WFC
+L	300	1	res=00000000
+S	296	0	WFC
+L	296	1	res=00000000
+S	297	0	WFC
+L	297	1	res=00000000
+S	287	0	COM
+R	287	118	0
+S	288	0	COM
+R	288	119	0
+S	289	0	COM
+R	289	120	0
+S	311	0	WFC
+S	312	0	IS
+S	313	0	IS
+S	314	0	IS
+S	315	0	RN
+S	316	0	RN
+I	317	15	0
+L	317	0	[08659]800001a0 (00004150): c.lw    a2, 4(a0)
+S	317	0	DEC
+I	318	15	0
+L	318	0	[08659]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	318	0	DEC
+I	319	15	0
+L	319	0	[08659]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	319	0	DEC
+C	1
+S	304	0	LD
+S	298	0	LD
+S	303	0	LD
+S	301	0	EX
+L	301	1	opA=00000003 
+L	301	1	opB=00000000 
+L	301	1	imm=ffffffec 
+S	302	0	EX
+L	302	1	opA=00000000 
+L	302	1	opB=00000000 
+L	302	1	imm=00000000 
+S	294	0	WFC
+L	294	1	res=00000000
+S	295	0	WFC
+L	295	1	res=00000000
+S	290	0	COM
+R	290	121	0
+S	315	0	IS
+S	316	0	IS
+S	317	0	RN
+S	318	0	RN
+S	319	0	RN
+I	320	16	0
+L	320	0	[08661]800001b6 (00050603): lb      a2, 0(a0)
+S	320	0	DEC
+I	321	16	0
+L	321	0	[08661]800001ba (00058683): lb      a3, 0(a1)
+S	321	0	DEC
+C	1
+S	306	0	LD
+S	305	0	LD
+S	312	0	LD
+S	304	0	EX
+L	304	1	opA=00000000 
+L	304	1	opB=00000000 
+L	304	1	imm=00000000 
+S	298	0	EX
+L	298	1	opA=00000069 
+L	298	1	opB=00000069 
+L	298	1	imm=00000000 
+S	303	0	EX
+L	303	1	opA=80000302 
+L	303	1	opB=00000056 
+L	303	1	imm=00000056 
+S	301	0	WFC
+L	301	1	res=00000000
+S	302	0	WFC
+L	302	1	res=00000000
+S	291	0	COM
+R	291	122	0
+S	292	0	COM
+R	292	123	0
+S	293	0	COM
+R	293	124	0
+S	317	0	IS
+S	318	0	IS
+S	319	0	IS
+S	320	0	RN
+S	321	0	RN
+I	322	17	0
+L	322	0	[08663]800001be (02d61563): bne     a2, a3, pc + 42
+S	322	0	DEC
+C	1
+S	313	0	LD
+S	306	0	EX
+L	306	1	opA=00000000 
+L	306	1	opB=fffffe6e 
+L	306	1	imm=fffffe6e 
+S	305	0	EX
+L	305	1	opA=8000030a 
+L	305	1	opB=0000005a 
+L	305	1	imm=0000005a 
+S	312	0	EX
+L	312	1	opA=80000358 
+L	312	1	opB=00000000 
+L	312	1	imm=00000000 
+S	304	0	WFC
+L	304	1	res=00000000
+S	298	0	WFC
+L	298	1	res=00000000
+S	303	0	WFC
+L	303	1	res=00000000
+S	294	0	COM
+R	294	125	0
+S	320	0	IS
+S	321	0	IS
+S	322	0	RN
+I	323	18	0
+L	323	0	[08665]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	323	0	DEC
+C	1
+S	317	0	LD
+S	313	0	EX
+L	313	1	opA=80000364 
+L	313	1	opB=00000000 
+L	313	1	imm=00000000 
+S	306	0	WFC
+L	306	1	res=00000000
+S	305	0	WFC
+L	305	1	res=00000000
+S	295	0	COM
+R	295	126	0
+S	296	0	COM
+R	296	127	0
+S	297	0	COM
+R	297	0	0
+S	322	0	IS
+S	323	0	RN
+I	324	19	0
+L	324	0	[08667]800001c4 (00150603): lb      a2, 1(a0)
+S	324	0	DEC
+I	325	19	0
+L	325	0	[08667]800001c8 (00158683): lb      a3, 1(a1)
+S	325	0	DEC
+I	326	19	0
+L	326	0	[08667]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	326	0	DEC
+C	1
+S	320	0	LD
+S	318	0	LD
+S	317	0	EX
+L	317	1	opA=80000358 
+L	317	1	opB=00000004 
+L	317	1	imm=00000004 
+S	312	0	WFC
+L	312	1	res=00000000
+S	298	0	COM
+R	298	1	0
+S	299	0	COM
+R	299	2	0
+S	300	0	COM
+R	300	3	0
+S	301	0	COM
+R	301	4	0
+S	323	0	IS
+S	324	0	RN
+S	325	0	RN
+S	326	0	RN
+I	327	20	0
+L	327	0	[08669]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	327	0	DEC
+C	1
+S	315	0	LD
+S	321	0	LD
+S	320	0	EX
+L	320	1	opA=80000358 
+L	320	1	opB=00000000 
+L	320	1	imm=00000000 
+S	318	0	EX
+L	318	1	opA=80000364 
+L	318	1	opB=00000004 
+L	318	1	imm=00000004 
+S	313	0	WFC
+L	313	1	res=00000000
+S	302	0	COM
+R	302	5	0
+S	303	0	COM
+R	303	6	0
+S	304	0	COM
+R	304	7	0
+S	305	0	COM
+R	305	8	0
+S	324	0	IS
+S	325	0	IS
+S	326	0	IS
+S	327	0	RN
+I	328	21	0
+L	328	0	[08671]800001d2 (00250603): lb      a2, 2(a0)
+S	328	0	DEC
+I	329	21	0
+L	329	0	[08671]800001d6 (00258683): lb      a3, 2(a1)
+S	329	0	DEC
+I	330	21	0
+L	330	0	[08671]800001da (00d61763): bne     a2, a3, pc + 14
+S	330	0	DEC
+C	1
+S	314	0	LD
+S	315	0	EX
+L	315	1	opA=69727453 
+L	315	1	opB=00000287 
+L	315	1	imm=00000287 
+S	321	0	EX
+L	321	1	opA=80000364 
+L	321	1	opB=00000000 
+L	321	1	imm=00000000 
+S	317	0	WFC
+L	317	1	res=00000000
+S	306	0	COM
+R	306	9	0
+S	307	0	COM
+R	307	10	0
+S	308	0	COM
+R	308	11	0
+S	309	0	COM
+R	309	12	0
+S	327	0	IS
+S	328	0	RN
+S	329	0	RN
+S	330	0	RN
+I	331	22	0
+L	331	0	[08673]800001de (0000c609): c.beqz  a2, pc + 10
+S	331	0	DEC
+C	1
+S	316	0	LD
+S	324	0	LD
+S	325	0	LD
+S	314	0	EX
+L	314	1	opA=69727453 
+L	314	1	opB=69727453 
+L	314	1	imm=00000022 
+S	315	0	WFC
+L	315	1	res=00000000
+S	320	0	WFC
+L	320	1	res=00000000
+S	318	0	WFC
+L	318	1	res=00000000
+S	310	0	COM
+R	310	13	0
+S	311	0	COM
+R	311	14	0
+S	312	0	COM
+R	312	15	0
+S	313	0	COM
+R	313	16	0
+S	328	0	IS
+S	329	0	IS
+S	330	0	IS
+S	331	0	RN
+I	332	23	0
+L	332	0	[08675]800001e0 (00350603): lb      a2, 3(a0)
+S	332	0	DEC
+I	333	23	0
+L	333	0	[08675]800001e4 (00358683): lb      a3, 3(a1)
+S	333	0	DEC
+I	334	23	0
+L	334	0	[08675]800001e8 (40d60533): sub     a0, a2, a3
+S	334	0	DEC
+I	335	23	0
+L	335	0	[08675]800001ec (00008082): ret
+S	335	0	DEC
+C	1
+S	319	0	LD
+S	323	0	LD
+S	316	0	EX
+L	316	1	opA=ffffffff 
+L	316	1	opB=ffffffff 
+L	316	1	imm=0000001a 
+S	324	0	EX
+L	324	1	opA=80000358 
+L	324	1	opB=00000001 
+L	324	1	imm=00000001 
+S	325	0	EX
+L	325	1	opA=80000364 
+L	325	1	opB=00000001 
+L	325	1	imm=00000001 
+S	314	0	WFC
+L	314	1	res=00000000
+S	321	0	WFC
+L	321	1	res=00000000
+S	331	0	IS
+S	332	0	RN
+S	333	0	RN
+S	334	0	RN
+S	335	0	RN
+I	336	24	0
+L	336	0	[08677]80000314 (0000147d): c.addi  s0, -1
+S	336	0	DEC
+I	337	24	0
+L	337	0	[08677]80000316 (0000f475): c.bnez  s0, pc - 20
+S	337	0	DEC
+C	1
+S	322	0	LD
+S	328	0	LD
+S	329	0	LD
+S	319	0	EX
+L	319	1	opA=4120676e 
+L	319	1	opB=4220676e 
+L	319	1	imm=00000012 
+S	323	0	EX
+L	323	1	opA=00000053 
+L	323	1	opB=00000000 
+L	323	1	imm=00000026 
+S	316	0	WFC
+L	316	1	res=00000000
+S	332	0	IS
+S	333	0	IS
+S	334	0	IS
+S	335	0	IS
+S	336	0	RN
+S	337	0	RN
+I	338	25	0
+L	338	0	[08679]80000302 (00000517): auipc   a0, 0x0
+S	338	0	DEC
+I	339	25	0
+L	339	0	[08679]80000306 (05650513): addi    a0, a0, 86
+S	339	0	DEC
+I	340	25	0
+L	340	0	[08679]8000030a (00000597): auipc   a1, 0x0
+S	340	0	DEC
+C	1
+S	322	0	EX
+L	322	1	opA=00000053 
+L	322	1	opB=00000053 
+L	322	1	imm=0000002a 
+S	328	0	EX
+L	328	1	opA=80000358 
+L	328	1	opB=00000002 
+L	328	1	imm=00000002 
+S	329	0	EX
+L	329	1	opA=80000364 
+L	329	1	opB=00000002 
+L	329	1	imm=00000002 
+S	319	0	WFC
+L	319	1	res=00000000
+S	323	0	WFC
+L	323	1	res=00000000
+S	325	0	WFC
+L	325	1	res=00000000
+S	324	0	WFC
+L	324	1	res=00000000
+S	314	0	COM
+R	314	17	0
+S	315	0	COM
+R	315	18	0
+S	336	0	IS
+S	337	0	IS
+S	338	0	RN
+S	339	0	RN
+S	340	0	RN
+I	341	26	0
+L	341	0	[08681]8000030e (05a58593): addi    a1, a1, 90
+S	341	0	DEC
+I	342	26	0
+L	342	0	[08681]80000312 (000035bd): c.jal   pc - 402
+S	342	0	DEC
+C	1
+S	327	0	LD
+S	326	0	LD
+S	332	0	LD
+S	333	0	LD
+S	322	0	WFC
+L	322	1	res=00000000
+S	316	0	COM
+R	316	19	0
+S	317	0	COM
+R	317	20	0
+S	318	0	COM
+R	318	21	0
+S	338	0	IS
+S	339	0	IS
+S	340	0	IS
+S	341	0	RN
+S	342	0	RN
+I	343	27	0
+L	343	0	[08683]80000180 (0000577d): c.li    a4, -1
+S	343	0	DEC
+I	344	27	0
+L	344	0	[08683]80000182 (00000001): c.nop
+S	344	0	DEC
+I	345	27	0
+L	345	0	[08683]80000184 (00000013): nop
+S	345	0	DEC
+I	346	27	0
+L	346	0	[08683]80000188 (00000013): nop
+S	346	0	DEC
+C	1
+S	335	0	LD
+S	336	0	LD
+S	327	0	EX
+L	327	1	opA=00000074 
+L	327	1	opB=00000000 
+L	327	1	imm=00000018 
+S	326	0	EX
+L	326	1	opA=00000074 
+L	326	1	opB=00000074 
+L	326	1	imm=0000001c 
+S	332	0	EX
+L	332	1	opA=80000358 
+L	332	1	opB=00000003 
+L	332	1	imm=00000003 
+S	333	0	EX
+L	333	1	opA=80000364 
+L	333	1	opB=00000003 
+L	333	1	imm=00000003 
+S	329	0	WFC
+L	329	1	res=00000000
+S	328	0	WFC
+L	328	1	res=00000000
+S	319	0	COM
+R	319	22	0
+S	320	0	COM
+R	320	23	0
+S	321	0	COM
+R	321	24	0
+S	341	0	IS
+S	342	0	IS
+S	343	0	RN
+S	344	0	RN
+S	345	0	RN
+S	346	0	RN
+I	347	27	0
+L	347	0	[08685]8000018c (00000013): nop
+S	347	0	DEC
+I	348	28	0
+L	348	0	[08685]80000190 (00004110): c.lw    a2, 0(a0)
+S	348	0	DEC
+I	349	28	0
+L	349	0	[08685]80000192 (00004194): c.lw    a3, 0(a1)
+S	349	0	DEC
+I	350	28	0
+L	350	0	[08685]80000194 (02d61163): bne     a2, a3, pc + 34
+S	350	0	DEC
+C	1
+S	330	0	LD
+S	331	0	LD
+S	335	0	EX
+L	335	1	opA=80000314 
+L	335	1	opB=80000314 
+L	335	1	imm=00000000 
+S	336	0	EX
+L	336	1	opA=00000003 
+L	336	1	opB=ffffffff 
+L	336	1	imm=ffffffff 
+S	327	0	WFC
+L	327	1	res=00000000
+S	326	0	WFC
+L	326	1	res=00000000
+S	322	0	COM
+R	322	25	0
+S	343	0	WFC
+S	344	0	WFC
+S	345	0	WFC
+S	346	0	WFC
+S	347	0	RN
+S	348	0	RN
+S	349	0	RN
+S	350	0	RN
+I	351	29	0
+L	351	0	[08687]80000198 (28765613): orc.b   a2, a2
+S	351	0	DEC
+I	352	29	0
+L	352	0	[08687]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	352	0	DEC
+C	1
+S	337	0	LD
+S	338	0	LD
+S	330	0	EX
+L	330	1	opA=00000072 
+L	330	1	opB=00000072 
+L	330	1	imm=0000000e 
+S	331	0	EX
+L	331	1	opA=00000072 
+L	331	1	opB=00000000 
+L	331	1	imm=0000000a 
+S	335	0	WFC
+L	335	1	res=00000000
+S	336	0	WFC
+L	336	1	res=00000000
+S	333	0	WFC
+L	333	1	res=00000000
+S	332	0	WFC
+L	332	1	res=00000000
+S	323	0	COM
+R	323	26	0
+S	324	0	COM
+R	324	27	0
+S	325	0	COM
+R	325	28	0
+S	347	0	WFC
+S	348	0	IS
+S	349	0	IS
+S	350	0	IS
+S	351	0	RN
+S	352	0	RN
+I	353	30	0
+L	353	0	[08689]800001a0 (00004150): c.lw    a2, 4(a0)
+S	353	0	DEC
+I	354	30	0
+L	354	0	[08689]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	354	0	DEC
+I	355	30	0
+L	355	0	[08689]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	355	0	DEC
+C	1
+S	340	0	LD
+S	334	0	LD
+S	339	0	LD
+S	337	0	EX
+L	337	1	opA=00000002 
+L	337	1	opB=00000000 
+L	337	1	imm=ffffffec 
+S	338	0	EX
+L	338	1	opA=00000000 
+L	338	1	opB=00000000 
+L	338	1	imm=00000000 
+S	330	0	WFC
+L	330	1	res=00000000
+S	331	0	WFC
+L	331	1	res=00000000
+S	326	0	COM
+R	326	29	0
+S	351	0	IS
+S	352	0	IS
+S	353	0	RN
+S	354	0	RN
+S	355	0	RN
+I	356	31	0
+L	356	0	[08691]800001b6 (00050603): lb      a2, 0(a0)
+S	356	0	DEC
+I	357	31	0
+L	357	0	[08691]800001ba (00058683): lb      a3, 0(a1)
+S	357	0	DEC
+C	1
+S	342	0	LD
+S	341	0	LD
+S	348	0	LD
+S	340	0	EX
+L	340	1	opA=00000000 
+L	340	1	opB=00000000 
+L	340	1	imm=00000000 
+S	334	0	EX
+L	334	1	opA=00000069 
+L	334	1	opB=00000069 
+L	334	1	imm=00000000 
+S	339	0	EX
+L	339	1	opA=80000302 
+L	339	1	opB=00000056 
+L	339	1	imm=00000056 
+S	337	0	WFC
+L	337	1	res=00000000
+S	338	0	WFC
+L	338	1	res=00000000
+S	327	0	COM
+R	327	30	0
+S	328	0	COM
+R	328	31	0
+S	329	0	COM
+R	329	32	0
+S	353	0	IS
+S	354	0	IS
+S	355	0	IS
+S	356	0	RN
+S	357	0	RN
+I	358	0	0
+L	358	0	[08693]800001be (02d61563): bne     a2, a3, pc + 42
+S	358	0	DEC
+C	1
+S	349	0	LD
+S	342	0	EX
+L	342	1	opA=00000000 
+L	342	1	opB=fffffe6e 
+L	342	1	imm=fffffe6e 
+S	341	0	EX
+L	341	1	opA=8000030a 
+L	341	1	opB=0000005a 
+L	341	1	imm=0000005a 
+S	348	0	EX
+L	348	1	opA=80000358 
+L	348	1	opB=00000000 
+L	348	1	imm=00000000 
+S	340	0	WFC
+L	340	1	res=00000000
+S	334	0	WFC
+L	334	1	res=00000000
+S	339	0	WFC
+L	339	1	res=00000000
+S	330	0	COM
+R	330	33	0
+S	356	0	IS
+S	357	0	IS
+S	358	0	RN
+I	359	1	0
+L	359	0	[08695]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	359	0	DEC
+C	1
+S	353	0	LD
+S	349	0	EX
+L	349	1	opA=80000364 
+L	349	1	opB=00000000 
+L	349	1	imm=00000000 
+S	342	0	WFC
+L	342	1	res=00000000
+S	341	0	WFC
+L	341	1	res=00000000
+S	331	0	COM
+R	331	34	0
+S	332	0	COM
+R	332	35	0
+S	333	0	COM
+R	333	36	0
+S	358	0	IS
+S	359	0	RN
+I	360	2	0
+L	360	0	[08697]800001c4 (00150603): lb      a2, 1(a0)
+S	360	0	DEC
+I	361	2	0
+L	361	0	[08697]800001c8 (00158683): lb      a3, 1(a1)
+S	361	0	DEC
+I	362	2	0
+L	362	0	[08697]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	362	0	DEC
+C	1
+S	356	0	LD
+S	354	0	LD
+S	353	0	EX
+L	353	1	opA=80000358 
+L	353	1	opB=00000004 
+L	353	1	imm=00000004 
+S	348	0	WFC
+L	348	1	res=00000000
+S	334	0	COM
+R	334	37	0
+S	335	0	COM
+R	335	38	0
+S	336	0	COM
+R	336	39	0
+S	337	0	COM
+R	337	40	0
+S	359	0	IS
+S	360	0	RN
+S	361	0	RN
+S	362	0	RN
+I	363	3	0
+L	363	0	[08699]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	363	0	DEC
+C	1
+S	351	0	LD
+S	357	0	LD
+S	356	0	EX
+L	356	1	opA=80000358 
+L	356	1	opB=00000000 
+L	356	1	imm=00000000 
+S	354	0	EX
+L	354	1	opA=80000364 
+L	354	1	opB=00000004 
+L	354	1	imm=00000004 
+S	349	0	WFC
+L	349	1	res=00000000
+S	338	0	COM
+R	338	41	0
+S	339	0	COM
+R	339	42	0
+S	340	0	COM
+R	340	43	0
+S	341	0	COM
+R	341	44	0
+S	360	0	IS
+S	361	0	IS
+S	362	0	IS
+S	363	0	RN
+I	364	4	0
+L	364	0	[08701]800001d2 (00250603): lb      a2, 2(a0)
+S	364	0	DEC
+I	365	4	0
+L	365	0	[08701]800001d6 (00258683): lb      a3, 2(a1)
+S	365	0	DEC
+I	366	4	0
+L	366	0	[08701]800001da (00d61763): bne     a2, a3, pc + 14
+S	366	0	DEC
+C	1
+S	350	0	LD
+S	351	0	EX
+L	351	1	opA=69727453 
+L	351	1	opB=00000287 
+L	351	1	imm=00000287 
+S	357	0	EX
+L	357	1	opA=80000364 
+L	357	1	opB=00000000 
+L	357	1	imm=00000000 
+S	353	0	WFC
+L	353	1	res=00000000
+S	342	0	COM
+R	342	45	0
+S	343	0	COM
+R	343	46	0
+S	344	0	COM
+R	344	47	0
+S	345	0	COM
+R	345	48	0
+S	363	0	IS
+S	364	0	RN
+S	365	0	RN
+S	366	0	RN
+I	367	5	0
+L	367	0	[08703]800001de (0000c609): c.beqz  a2, pc + 10
+S	367	0	DEC
+C	1
+S	352	0	LD
+S	360	0	LD
+S	361	0	LD
+S	350	0	EX
+L	350	1	opA=69727453 
+L	350	1	opB=69727453 
+L	350	1	imm=00000022 
+S	351	0	WFC
+L	351	1	res=00000000
+S	354	0	WFC
+L	354	1	res=00000000
+S	356	0	WFC
+L	356	1	res=00000000
+S	346	0	COM
+R	346	49	0
+S	347	0	COM
+R	347	50	0
+S	348	0	COM
+R	348	51	0
+S	349	0	COM
+R	349	52	0
+S	364	0	IS
+S	365	0	IS
+S	366	0	IS
+S	367	0	RN
+I	368	6	0
+L	368	0	[08705]800001e0 (00350603): lb      a2, 3(a0)
+S	368	0	DEC
+I	369	6	0
+L	369	0	[08705]800001e4 (00358683): lb      a3, 3(a1)
+S	369	0	DEC
+I	370	6	0
+L	370	0	[08705]800001e8 (40d60533): sub     a0, a2, a3
+S	370	0	DEC
+I	371	6	0
+L	371	0	[08705]800001ec (00008082): ret
+S	371	0	DEC
+C	1
+S	355	0	LD
+S	359	0	LD
+S	352	0	EX
+L	352	1	opA=ffffffff 
+L	352	1	opB=ffffffff 
+L	352	1	imm=0000001a 
+S	360	0	EX
+L	360	1	opA=80000358 
+L	360	1	opB=00000001 
+L	360	1	imm=00000001 
+S	361	0	EX
+L	361	1	opA=80000364 
+L	361	1	opB=00000001 
+L	361	1	imm=00000001 
+S	350	0	WFC
+L	350	1	res=00000000
+S	357	0	WFC
+L	357	1	res=00000000
+S	367	0	IS
+S	368	0	RN
+S	369	0	RN
+S	370	0	RN
+S	371	0	RN
+I	372	7	0
+L	372	0	[08707]80000314 (0000147d): c.addi  s0, -1
+S	372	0	DEC
+I	373	7	0
+L	373	0	[08707]80000316 (0000f475): c.bnez  s0, pc - 20
+S	373	0	DEC
+C	1
+S	358	0	LD
+S	364	0	LD
+S	365	0	LD
+S	355	0	EX
+L	355	1	opA=4120676e 
+L	355	1	opB=4220676e 
+L	355	1	imm=00000012 
+S	359	0	EX
+L	359	1	opA=00000053 
+L	359	1	opB=00000000 
+L	359	1	imm=00000026 
+S	352	0	WFC
+L	352	1	res=00000000
+S	368	0	IS
+S	369	0	IS
+S	370	0	IS
+S	371	0	IS
+S	372	0	RN
+S	373	0	RN
+I	374	8	0
+L	374	0	[08709]80000302 (00000517): auipc   a0, 0x0
+S	374	0	DEC
+I	375	8	0
+L	375	0	[08709]80000306 (05650513): addi    a0, a0, 86
+S	375	0	DEC
+I	376	8	0
+L	376	0	[08709]8000030a (00000597): auipc   a1, 0x0
+S	376	0	DEC
+C	1
+S	358	0	EX
+L	358	1	opA=00000053 
+L	358	1	opB=00000053 
+L	358	1	imm=0000002a 
+S	364	0	EX
+L	364	1	opA=80000358 
+L	364	1	opB=00000002 
+L	364	1	imm=00000002 
+S	365	0	EX
+L	365	1	opA=80000364 
+L	365	1	opB=00000002 
+L	365	1	imm=00000002 
+S	355	0	WFC
+L	355	1	res=00000000
+S	359	0	WFC
+L	359	1	res=00000000
+S	360	0	WFC
+L	360	1	res=00000000
+S	361	0	WFC
+L	361	1	res=00000000
+S	350	0	COM
+R	350	53	0
+S	351	0	COM
+R	351	54	0
+S	372	0	IS
+S	373	0	IS
+S	374	0	RN
+S	375	0	RN
+S	376	0	RN
+I	377	9	0
+L	377	0	[08711]8000030e (05a58593): addi    a1, a1, 90
+S	377	0	DEC
+I	378	9	0
+L	378	0	[08711]80000312 (000035bd): c.jal   pc - 402
+S	378	0	DEC
+C	1
+S	363	0	LD
+S	362	0	LD
+S	368	0	LD
+S	369	0	LD
+S	358	0	WFC
+L	358	1	res=00000000
+S	352	0	COM
+R	352	55	0
+S	353	0	COM
+R	353	56	0
+S	354	0	COM
+R	354	57	0
+S	374	0	IS
+S	375	0	IS
+S	376	0	IS
+S	377	0	RN
+S	378	0	RN
+I	379	10	0
+L	379	0	[08713]80000180 (0000577d): c.li    a4, -1
+S	379	0	DEC
+I	380	10	0
+L	380	0	[08713]80000182 (00000001): c.nop
+S	380	0	DEC
+I	381	10	0
+L	381	0	[08713]80000184 (00000013): nop
+S	381	0	DEC
+I	382	10	0
+L	382	0	[08713]80000188 (00000013): nop
+S	382	0	DEC
+C	1
+S	371	0	LD
+S	372	0	LD
+S	363	0	EX
+L	363	1	opA=00000074 
+L	363	1	opB=00000000 
+L	363	1	imm=00000018 
+S	362	0	EX
+L	362	1	opA=00000074 
+L	362	1	opB=00000074 
+L	362	1	imm=0000001c 
+S	368	0	EX
+L	368	1	opA=80000358 
+L	368	1	opB=00000003 
+L	368	1	imm=00000003 
+S	369	0	EX
+L	369	1	opA=80000364 
+L	369	1	opB=00000003 
+L	369	1	imm=00000003 
+S	364	0	WFC
+L	364	1	res=00000000
+S	365	0	WFC
+L	365	1	res=00000000
+S	355	0	COM
+R	355	58	0
+S	356	0	COM
+R	356	59	0
+S	357	0	COM
+R	357	60	0
+S	377	0	IS
+S	378	0	IS
+S	379	0	RN
+S	380	0	RN
+S	381	0	RN
+S	382	0	RN
+I	383	10	0
+L	383	0	[08715]8000018c (00000013): nop
+S	383	0	DEC
+I	384	11	0
+L	384	0	[08715]80000190 (00004110): c.lw    a2, 0(a0)
+S	384	0	DEC
+I	385	11	0
+L	385	0	[08715]80000192 (00004194): c.lw    a3, 0(a1)
+S	385	0	DEC
+I	386	11	0
+L	386	0	[08715]80000194 (02d61163): bne     a2, a3, pc + 34
+S	386	0	DEC
+C	1
+S	366	0	LD
+S	367	0	LD
+S	371	0	EX
+L	371	1	opA=80000314 
+L	371	1	opB=80000314 
+L	371	1	imm=00000000 
+S	372	0	EX
+L	372	1	opA=00000002 
+L	372	1	opB=ffffffff 
+L	372	1	imm=ffffffff 
+S	363	0	WFC
+L	363	1	res=00000000
+S	362	0	WFC
+L	362	1	res=00000000
+S	358	0	COM
+R	358	61	0
+S	379	0	WFC
+S	380	0	WFC
+S	381	0	WFC
+S	382	0	WFC
+S	383	0	RN
+S	384	0	RN
+S	385	0	RN
+S	386	0	RN
+I	387	12	0
+L	387	0	[08717]80000198 (28765613): orc.b   a2, a2
+S	387	0	DEC
+I	388	12	0
+L	388	0	[08717]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	388	0	DEC
+C	1
+S	373	0	LD
+S	374	0	LD
+S	366	0	EX
+L	366	1	opA=00000072 
+L	366	1	opB=00000072 
+L	366	1	imm=0000000e 
+S	367	0	EX
+L	367	1	opA=00000072 
+L	367	1	opB=00000000 
+L	367	1	imm=0000000a 
+S	371	0	WFC
+L	371	1	res=00000000
+S	372	0	WFC
+L	372	1	res=00000000
+S	368	0	WFC
+L	368	1	res=00000000
+S	369	0	WFC
+L	369	1	res=00000000
+S	359	0	COM
+R	359	62	0
+S	360	0	COM
+R	360	63	0
+S	361	0	COM
+R	361	64	0
+S	383	0	WFC
+S	384	0	IS
+S	385	0	IS
+S	386	0	IS
+S	387	0	RN
+S	388	0	RN
+I	389	13	0
+L	389	0	[08719]800001a0 (00004150): c.lw    a2, 4(a0)
+S	389	0	DEC
+I	390	13	0
+L	390	0	[08719]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	390	0	DEC
+I	391	13	0
+L	391	0	[08719]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	391	0	DEC
+C	1
+S	376	0	LD
+S	370	0	LD
+S	375	0	LD
+S	373	0	EX
+L	373	1	opA=00000001 
+L	373	1	opB=00000000 
+L	373	1	imm=ffffffec 
+S	374	0	EX
+L	374	1	opA=00000000 
+L	374	1	opB=00000000 
+L	374	1	imm=00000000 
+S	366	0	WFC
+L	366	1	res=00000000
+S	367	0	WFC
+L	367	1	res=00000000
+S	362	0	COM
+R	362	65	0
+S	387	0	IS
+S	388	0	IS
+S	389	0	RN
+S	390	0	RN
+S	391	0	RN
+I	392	14	0
+L	392	0	[08721]800001b6 (00050603): lb      a2, 0(a0)
+S	392	0	DEC
+I	393	14	0
+L	393	0	[08721]800001ba (00058683): lb      a3, 0(a1)
+S	393	0	DEC
+C	1
+S	378	0	LD
+S	377	0	LD
+S	384	0	LD
+S	376	0	EX
+L	376	1	opA=00000000 
+L	376	1	opB=00000000 
+L	376	1	imm=00000000 
+S	370	0	EX
+L	370	1	opA=00000069 
+L	370	1	opB=00000069 
+L	370	1	imm=00000000 
+S	375	0	EX
+L	375	1	opA=80000302 
+L	375	1	opB=00000056 
+L	375	1	imm=00000056 
+S	373	0	WFC
+L	373	1	res=00000000
+S	374	0	WFC
+L	374	1	res=00000000
+S	363	0	COM
+R	363	66	0
+S	364	0	COM
+R	364	67	0
+S	365	0	COM
+R	365	68	0
+S	389	0	IS
+S	390	0	IS
+S	391	0	IS
+S	392	0	RN
+S	393	0	RN
+I	394	15	0
+L	394	0	[08723]800001be (02d61563): bne     a2, a3, pc + 42
+S	394	0	DEC
+C	1
+S	385	0	LD
+S	378	0	EX
+L	378	1	opA=00000000 
+L	378	1	opB=fffffe6e 
+L	378	1	imm=fffffe6e 
+S	377	0	EX
+L	377	1	opA=8000030a 
+L	377	1	opB=0000005a 
+L	377	1	imm=0000005a 
+S	384	0	EX
+L	384	1	opA=80000358 
+L	384	1	opB=00000000 
+L	384	1	imm=00000000 
+S	376	0	WFC
+L	376	1	res=00000000
+S	370	0	WFC
+L	370	1	res=00000000
+S	375	0	WFC
+L	375	1	res=00000000
+S	366	0	COM
+R	366	69	0
+S	392	0	IS
+S	393	0	IS
+S	394	0	RN
+I	395	16	0
+L	395	0	[08725]800001c2 (0000c21d): c.beqz  a2, pc + 38
+S	395	0	DEC
+C	1
+S	389	0	LD
+S	385	0	EX
+L	385	1	opA=80000364 
+L	385	1	opB=00000000 
+L	385	1	imm=00000000 
+S	378	0	WFC
+L	378	1	res=00000000
+S	377	0	WFC
+L	377	1	res=00000000
+S	367	0	COM
+R	367	70	0
+S	368	0	COM
+R	368	71	0
+S	369	0	COM
+R	369	72	0
+S	394	0	IS
+S	395	0	RN
+I	396	17	0
+L	396	0	[08727]800001c4 (00150603): lb      a2, 1(a0)
+S	396	0	DEC
+I	397	17	0
+L	397	0	[08727]800001c8 (00158683): lb      a3, 1(a1)
+S	397	0	DEC
+I	398	17	0
+L	398	0	[08727]800001cc (00d61e63): bne     a2, a3, pc + 28
+S	398	0	DEC
+C	1
+S	392	0	LD
+S	390	0	LD
+S	389	0	EX
+L	389	1	opA=80000358 
+L	389	1	opB=00000004 
+L	389	1	imm=00000004 
+S	384	0	WFC
+L	384	1	res=00000000
+S	370	0	COM
+R	370	73	0
+S	371	0	COM
+R	371	74	0
+S	372	0	COM
+R	372	75	0
+S	373	0	COM
+R	373	76	0
+S	395	0	IS
+S	396	0	RN
+S	397	0	RN
+S	398	0	RN
+I	399	18	0
+L	399	0	[08729]800001d0 (0000ce01): c.beqz  a2, pc + 24
+S	399	0	DEC
+C	1
+S	387	0	LD
+S	393	0	LD
+S	392	0	EX
+L	392	1	opA=80000358 
+L	392	1	opB=00000000 
+L	392	1	imm=00000000 
+S	390	0	EX
+L	390	1	opA=80000364 
+L	390	1	opB=00000004 
+L	390	1	imm=00000004 
+S	385	0	WFC
+L	385	1	res=00000000
+S	374	0	COM
+R	374	77	0
+S	375	0	COM
+R	375	78	0
+S	376	0	COM
+R	376	79	0
+S	377	0	COM
+R	377	80	0
+S	396	0	IS
+S	397	0	IS
+S	398	0	IS
+S	399	0	RN
+I	400	19	0
+L	400	0	[08731]800001d2 (00250603): lb      a2, 2(a0)
+S	400	0	DEC
+I	401	19	0
+L	401	0	[08731]800001d6 (00258683): lb      a3, 2(a1)
+S	401	0	DEC
+I	402	19	0
+L	402	0	[08731]800001da (00d61763): bne     a2, a3, pc + 14
+S	402	0	DEC
+C	1
+S	386	0	LD
+S	387	0	EX
+L	387	1	opA=69727453 
+L	387	1	opB=00000287 
+L	387	1	imm=00000287 
+S	393	0	EX
+L	393	1	opA=80000364 
+L	393	1	opB=00000000 
+L	393	1	imm=00000000 
+S	389	0	WFC
+L	389	1	res=00000000
+S	378	0	COM
+R	378	81	0
+S	379	0	COM
+R	379	82	0
+S	380	0	COM
+R	380	83	0
+S	381	0	COM
+R	381	84	0
+S	399	0	IS
+S	400	0	RN
+S	401	0	RN
+S	402	0	RN
+I	403	20	0
+L	403	0	[08733]800001de (0000c609): c.beqz  a2, pc + 10
+S	403	0	DEC
+C	1
+S	388	0	LD
+S	396	0	LD
+S	397	0	LD
+S	386	0	EX
+L	386	1	opA=69727453 
+L	386	1	opB=69727453 
+L	386	1	imm=00000022 
+S	387	0	WFC
+L	387	1	res=00000000
+S	392	0	WFC
+L	392	1	res=00000000
+S	390	0	WFC
+L	390	1	res=00000000
+S	382	0	COM
+R	382	85	0
+S	383	0	COM
+R	383	86	0
+S	384	0	COM
+R	384	87	0
+S	385	0	COM
+R	385	88	0
+S	400	0	IS
+S	401	0	IS
+S	402	0	IS
+S	403	0	RN
+I	404	21	0
+L	404	0	[08735]800001e0 (00350603): lb      a2, 3(a0)
+S	404	0	DEC
+I	405	21	0
+L	405	0	[08735]800001e4 (00358683): lb      a3, 3(a1)
+S	405	0	DEC
+I	406	21	0
+L	406	0	[08735]800001e8 (40d60533): sub     a0, a2, a3
+S	406	0	DEC
+I	407	21	0
+L	407	0	[08735]800001ec (00008082): ret
+S	407	0	DEC
+C	1
+S	391	0	LD
+S	395	0	LD
+S	388	0	EX
+L	388	1	opA=ffffffff 
+L	388	1	opB=ffffffff 
+L	388	1	imm=0000001a 
+S	396	0	EX
+L	396	1	opA=80000358 
+L	396	1	opB=00000001 
+L	396	1	imm=00000001 
+S	397	0	EX
+L	397	1	opA=80000364 
+L	397	1	opB=00000001 
+L	397	1	imm=00000001 
+S	386	0	WFC
+L	386	1	res=00000000
+S	393	0	WFC
+L	393	1	res=00000000
+S	403	0	IS
+S	404	0	RN
+S	405	0	RN
+S	406	0	RN
+S	407	0	RN
+I	408	22	0
+L	408	0	[08737]80000314 (0000147d): c.addi  s0, -1
+S	408	0	DEC
+I	409	22	0
+L	409	0	[08737]80000316 (0000f475): c.bnez  s0, pc - 20
+S	409	0	DEC
+C	1
+S	394	0	LD
+S	400	0	LD
+S	401	0	LD
+S	391	0	EX
+L	391	1	opA=4120676e 
+L	391	1	opB=4220676e 
+L	391	1	imm=00000012 
+S	395	0	EX
+L	395	1	opA=00000053 
+L	395	1	opB=00000000 
+L	395	1	imm=00000026 
+S	388	0	WFC
+L	388	1	res=00000000
+S	404	0	IS
+S	405	0	IS
+S	406	0	IS
+S	407	0	IS
+S	408	0	RN
+S	409	0	RN
+I	410	23	0
+L	410	0	[08739]80000302 (00000517): auipc   a0, 0x0
+S	410	0	DEC
+I	411	23	0
+L	411	0	[08739]80000306 (05650513): addi    a0, a0, 86
+S	411	0	DEC
+I	412	23	0
+L	412	0	[08739]8000030a (00000597): auipc   a1, 0x0
+S	412	0	DEC
+C	1
+S	394	0	EX
+L	394	1	opA=00000053 
+L	394	1	opB=00000053 
+L	394	1	imm=0000002a 
+S	400	0	EX
+L	400	1	opA=80000358 
+L	400	1	opB=00000002 
+L	400	1	imm=00000002 
+S	401	0	EX
+L	401	1	opA=80000364 
+L	401	1	opB=00000002 
+L	401	1	imm=00000002 
+S	391	0	WFC
+L	391	1	res=00000000
+S	395	0	WFC
+L	395	1	res=00000000
+S	397	0	WFC
+L	397	1	res=00000000
+S	396	0	WFC
+L	396	1	res=00000000
+S	386	0	COM
+R	386	89	0
+S	387	0	COM
+R	387	90	0
+S	408	0	IS
+S	409	0	IS
+S	410	0	RN
+S	411	0	RN
+S	412	0	RN
+I	413	24	0
+L	413	0	[08741]8000030e (05a58593): addi    a1, a1, 90
+S	413	0	DEC
+I	414	24	0
+L	414	0	[08741]80000312 (000035bd): c.jal   pc - 402
+S	414	0	DEC
+C	1
+S	399	0	LD
+S	398	0	LD
+S	404	0	LD
+S	405	0	LD
+S	394	0	WFC
+L	394	1	res=00000000
+S	388	0	COM
+R	388	91	0
+S	389	0	COM
+R	389	92	0
+S	390	0	COM
+R	390	93	0
+S	410	0	IS
+S	411	0	IS
+S	412	0	IS
+S	413	0	RN
+S	414	0	RN
+I	415	25	0
+L	415	0	[08743]80000180 (0000577d): c.li    a4, -1
+S	415	0	DEC
+I	416	25	0
+L	416	0	[08743]80000182 (00000001): c.nop
+S	416	0	DEC
+I	417	25	0
+L	417	0	[08743]80000184 (00000013): nop
+S	417	0	DEC
+I	418	25	0
+L	418	0	[08743]80000188 (00000013): nop
+S	418	0	DEC
+C	1
+S	407	0	LD
+S	408	0	LD
+S	399	0	EX
+L	399	1	opA=00000074 
+L	399	1	opB=00000000 
+L	399	1	imm=00000018 
+S	398	0	EX
+L	398	1	opA=00000074 
+L	398	1	opB=00000074 
+L	398	1	imm=0000001c 
+S	404	0	EX
+L	404	1	opA=80000358 
+L	404	1	opB=00000003 
+L	404	1	imm=00000003 
+S	405	0	EX
+L	405	1	opA=80000364 
+L	405	1	opB=00000003 
+L	405	1	imm=00000003 
+S	401	0	WFC
+L	401	1	res=00000000
+S	400	0	WFC
+L	400	1	res=00000000
+S	391	0	COM
+R	391	94	0
+S	392	0	COM
+R	392	95	0
+S	393	0	COM
+R	393	96	0
+S	413	0	IS
+S	414	0	IS
+S	415	0	RN
+S	416	0	RN
+S	417	0	RN
+S	418	0	RN
+I	419	25	0
+L	419	0	[08745]8000018c (00000013): nop
+S	419	0	DEC
+I	420	26	0
+L	420	0	[08745]80000190 (00004110): c.lw    a2, 0(a0)
+S	420	0	DEC
+I	421	26	0
+L	421	0	[08745]80000192 (00004194): c.lw    a3, 0(a1)
+S	421	0	DEC
+I	422	26	0
+L	422	0	[08745]80000194 (02d61163): bne     a2, a3, pc + 34
+S	422	0	DEC
+C	1
+S	402	0	LD
+S	403	0	LD
+S	407	0	EX
+L	407	1	opA=80000314 
+L	407	1	opB=80000314 
+L	407	1	imm=00000000 
+S	408	0	EX
+L	408	1	opA=00000001 
+L	408	1	opB=ffffffff 
+L	408	1	imm=ffffffff 
+S	399	0	WFC
+L	399	1	res=00000000
+S	398	0	WFC
+L	398	1	res=00000000
+S	394	0	COM
+R	394	97	0
+S	415	0	WFC
+S	416	0	WFC
+S	417	0	WFC
+S	418	0	WFC
+S	419	0	RN
+S	420	0	RN
+S	421	0	RN
+S	422	0	RN
+I	423	27	0
+L	423	0	[08747]80000198 (28765613): orc.b   a2, a2
+S	423	0	DEC
+I	424	27	0
+L	424	0	[08747]8000019c (00e61d63): bne     a2, a4, pc + 26
+S	424	0	DEC
+C	1
+S	409	0	LD
+S	410	0	LD
+S	402	0	EX
+L	402	1	opA=00000072 
+L	402	1	opB=00000072 
+L	402	1	imm=0000000e 
+S	403	0	EX
+L	403	1	opA=00000072 
+L	403	1	opB=00000000 
+L	403	1	imm=0000000a 
+S	407	0	WFC
+L	407	1	res=00000000
+S	408	0	WFC
+L	408	1	res=00000000
+S	405	0	WFC
+L	405	1	res=00000000
+S	404	0	WFC
+L	404	1	res=00000000
+S	395	0	COM
+R	395	98	0
+S	396	0	COM
+R	396	99	0
+S	397	0	COM
+R	397	100	0
+S	419	0	WFC
+S	420	0	IS
+S	421	0	IS
+S	422	0	IS
+S	423	0	RN
+S	424	0	RN
+I	425	28	0
+L	425	0	[08749]800001a0 (00004150): c.lw    a2, 4(a0)
+S	425	0	DEC
+I	426	28	0
+L	426	0	[08749]800001a2 (000041d4): c.lw    a3, 4(a1)
+S	426	0	DEC
+I	427	28	0
+L	427	0	[08749]800001a4 (00d61963): bne     a2, a3, pc + 18
+S	427	0	DEC
+C	1
+S	412	0	LD
+S	406	0	LD
+S	411	0	LD
+S	409	0	EX
+L	409	1	opA=00000000 
+L	409	1	opB=00000000 
+L	409	1	imm=ffffffec 
+S	410	0	EX
+L	410	1	opA=00000000 
+L	410	1	opB=00000000 
+L	410	1	imm=00000000 
+S	402	0	WFC
+L	402	1	res=00000000
+S	403	0	WFC
+L	403	1	res=00000000
+S	398	0	COM
+R	398	101	0
+S	423	0	IS
+S	424	0	IS
+S	425	0	RN
+S	426	0	RN
+S	427	0	RN
+I	428	29	0
+L	428	0	[08751]800001b6 (00050603): lb      a2, 0(a0)
+S	428	0	DEC
+I	429	29	0
+L	429	0	[08751]800001ba (00058683): lb      a3, 0(a1)
+S	429	0	DEC
+C	1
+S	414	0	LD
+S	413	0	LD
+S	420	0	LD
+S	412	0	EX
+L	412	1	opA=00000000 
+L	412	1	opB=00000000 
+L	412	1	imm=00000000 
+S	406	0	EX
+L	406	1	opA=00000069 
+L	406	1	opB=00000069 
+L	406	1	imm=00000000 
+S	411	0	EX
+L	411	1	opA=80000302 
+L	411	1	opB=00000056 
+L	411	1	imm=00000056 
+S	409	0	WFC
+L	409	1	res=00000000
+S	410	0	WFC
+L	410	1	res=00000000
+S	399	0	COM
+R	399	102	0
+S	400	0	COM
+R	400	103	0
+S	401	0	COM
+R	401	104	0
+R	410	0	1
+R	411	0	1
+R	412	0	1
+R	413	0	1
+R	414	0	1
+R	415	0	1
+R	416	0	1
+R	417	0	1
+R	418	0	1
+R	419	0	1
+R	420	0	1
+R	421	0	1
+R	422	0	1
+R	423	0	1
+R	424	0	1
+R	425	0	1
+R	428	0	1
+R	426	0	1
+R	429	0	1
+R	427	0	1
+C	1
+S	406	0	WFC
+L	406	1	res=00000000
+R	428	0	1
+R	429	0	1
+C	1
+C	1
+S	402	0	COM
+R	402	105	0
+C	1
+S	403	0	COM
+R	403	106	0
+S	404	0	COM
+R	404	107	0
+S	405	0	COM
+R	405	108	0
+C	1
+S	406	0	COM
+R	406	109	0
+S	407	0	COM
+R	407	110	0
+S	408	0	COM
+R	408	111	0
+S	409	0	COM
+R	409	112	0
+C	1
+I	430	23	0
+L	430	0	[08765]80000318 (00004082): c.lwsp  ra, 0(sp)
+S	430	0	DEC
+I	431	23	0
+L	431	0	[08765]8000031a (00000141): c.addi  sp, 16
+S	431	0	DEC
+I	432	23	0
+L	432	0	[08765]8000031c (00008082): ret
+S	432	0	DEC
+C	1
+S	430	0	RN
+S	431	0	RN
+S	432	0	RN
+I	433	24	0
+L	433	0	[08767]80000016 (00000001): c.nop
+S	433	0	DEC
+I	434	24	0
+L	434	0	[08767]80000018 (11100537): lui     a0, 0x11100
+S	434	0	DEC
+I	435	24	0
+L	435	0	[08767]8000001c (05500593): li      a1, 85
+S	435	0	DEC
+C	1
+S	430	0	IS
+S	431	0	IS
+S	432	0	IS
+S	433	0	RN
+S	434	0	RN
+S	435	0	RN
+I	436	25	0
+L	436	0	[08769]80000020 (00b50023): sb      a1, 0(a0)
+S	436	0	DEC
+I	437	25	0
+L	437	0	[08769]80000024 (0000a001): c.j     pc + 0
+S	437	0	DEC
+C	1
+S	433	0	WFC
+S	434	0	IS
+S	435	0	IS
+S	436	0	RN
+S	437	0	RN
+I	438	26	0
+L	438	0	[08771]80000024 (0000a001): c.j     pc + 0
+S	438	0	DEC
+C	1
+S	431	0	LD
+S	430	0	LD
+S	436	0	IS
+S	437	0	WFC
+S	438	0	RN
+C	1
+S	435	0	LD
+S	434	0	LD
+S	431	0	EX
+L	431	1	opA=8001fff0 
+L	431	1	opB=00000010 
+L	431	1	imm=00000010 
+S	430	0	EX
+L	430	1	opA=8001fff0 
+L	430	1	opB=00000000 
+L	430	1	imm=00000000 
+S	438	0	WFC
+C	1
+S	436	0	LD
+S	435	0	EX
+L	435	1	opA=00000000 
+L	435	1	opB=00000055 
+L	435	1	imm=00000055 
+S	434	0	EX
+L	434	1	opA=00000000 
+L	434	1	opB=11100000 
+L	434	1	imm=11100000 
+S	431	0	WFC
+L	431	1	res=00000000
+I	439	27	0
+L	439	0	[08777]80000024 (0000a001): c.j     pc + 0
+S	439	0	DEC
+C	1
+S	436	0	EX
+L	436	1	opA=11100000 
+L	436	1	opB=00000000 
+L	436	1	imm=00000000 
+S	435	0	WFC
+L	435	1	res=00000000
+S	434	0	WFC
+L	434	1	res=00000000
+S	430	0	WFC
+L	430	1	res=00000000
+S	439	0	RN
+C	1
+S	432	0	LD
+S	436	0	WFC
+L	436	1	res=00000000
+S	439	0	WFC
+C	1
+S	432	0	EX
+L	432	1	opA=80000016 
+L	432	1	opB=80000016 
+L	432	1	imm=00000000 
+S	430	0	COM
+R	430	113	0
+S	431	0	COM
+R	431	114	0
+I	440	28	0
+L	440	0	[08783]80000024 (0000a001): c.j     pc + 0
+S	440	0	DEC
+C	1
+S	432	0	WFC
+L	432	1	res=00000000
+S	440	0	RN
+I	441	29	0
+L	441	0	[08785]80000024 (0000a001): c.j     pc + 0
+S	441	0	DEC
+C	1
+S	440	0	WFC
+S	441	0	RN
+I	442	30	0
+L	442	0	[08787]80000024 (0000a001): c.j     pc + 0
+S	442	0	DEC
+C	1
+S	432	0	COM
+R	432	115	0
+S	433	0	COM
+R	433	116	0
+S	434	0	COM
+R	434	117	0
+S	435	0	COM
+R	435	118	0
+S	441	0	WFC
+S	442	0	RN
+I	443	31	0
+L	443	0	[08789]80000024 (0000a001): c.j     pc + 0
+S	443	0	DEC
+C	1
+S	436	0	COM
+R	436	119	0
+S	437	0	COM
+R	437	120	0
+S	438	0	COM
+R	438	121	0
+S	439	0	COM
+R	439	122	0
+S	442	0	WFC
+S	443	0	RN
+I	444	0	0
+L	444	0	[08791]80000024 (0000a001): c.j     pc + 0
+S	444	0	DEC
+C	1
+S	440	0	COM
+R	440	123	0
+S	441	0	COM
+R	441	124	0
+S	443	0	WFC
+S	444	0	RN
+I	445	1	0
+L	445	0	[08793]80000024 (0000a001): c.j     pc + 0
+S	445	0	DEC
+C	1
+S	442	0	COM
+R	442	125	0
+S	444	0	WFC
+S	445	0	RN
+I	446	2	0
+L	446	0	[08795]80000024 (0000a001): c.j     pc + 0
+S	446	0	DEC
+C	1
+S	443	0	COM
+R	443	126	0
+S	445	0	WFC
+S	446	0	RN
+I	447	3	0
+L	447	0	[08797]80000024 (0000a001): c.j     pc + 0
+S	447	0	DEC
+C	1
+S	444	0	COM
+R	444	127	0
+S	446	0	WFC
+S	447	0	RN
+I	448	4	0
+L	448	0	[08799]80000024 (0000a001): c.j     pc + 0
+S	448	0	DEC
+C	1
+S	445	0	COM
+R	445	0	0
+S	447	0	WFC
+S	448	0	RN
+I	449	5	0
+L	449	0	[08801]80000024 (0000a001): c.j     pc + 0
+S	449	0	DEC
+C	1
