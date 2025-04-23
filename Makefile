@@ -5,7 +5,7 @@ VERILATOR_FLAGS = \
 	-CFLAGS "-std=c++17 -march=native" \
 	-LDFLAGS "-ldl" \
 	-MAKEFLAGS -j$(nproc) \
-	-CFLAGS -DNOKONATA \
+	-CFLAGS -DKONATA \
 	-CFLAGS -DCOSIM \
 	-CFLAGS -DSAVEABLE \
 	-CFLAGS -DNOCOVERAGE
